@@ -1,0 +1,172 @@
+{
+    "nav": {
+        "about": "Sobre mi",
+        "home": "Inicio",
+        "services": "Servicios",
+        "contact": "Contacto",
+        "search": "Buscar"
+    },
+    "about": {
+        "intro": "<p>En 2022, después de otro trabajo temporal, decidí que era hora de un cambio.</p><p>Mientras viajaba, conocí a una chica que trabajaba como gerente de marketing en línea, y eso despertó mi interés. Comencé un curso por correspondencia para convertirme en gerente de marketing en línea certificado, que también incluía algunos módulos de HTML5 y CSS3. Me encontré fascinado por lo que podía crear con estos lenguajes.</p><p>Luego, recibí una oferta para un curso como Desarrollador de Tiendas en Línea con fundamentos de Python. Esto marcó mi introducción a la programación, y descubrí una pasión por el desarrollo web.</p><p>En mi tiempo libre, profundicé en Django, y más tarde, en JavaScript, React y Vue. Actualmente, prefiero React por su sintaxis simple y su vibrante comunidad.</p>"
+    },
+    "hero": {
+        "intro": "<p>Me llaman</p><h3>Carina Arnold</h3><p>Me encanta crear sitios web modernos y funcionales con un diseño minimalista. <a href=\"#contact\">Contáctame ahora</a> y cuéntame sobre tu proyecto.</p>"
+    },
+    "contact": {
+        "name": {
+            "label": "Nombre",
+            "placeholder": "Nombre",
+            "message": "Cómo te llamas?"
+        },
+        "email": {
+            "label": "Correo electronico",
+            "placeholder": "correo electronico",
+            "message": "Tu correo electronico"
+        },
+        "message": {
+            "label": "Mensaje",
+            "placeholder": "Mensaje",
+            "message": "Tu mensaje"
+        },
+        "submit": "Enviar"
+    },
+    "experience": [
+        {
+            "date": "2022-10 - 2023-01",
+            "title": "Formación Profesional en Desarrollo Web/ E-commerce con fundamentos de Python",
+            "company": "WBS Training AG",
+            "location": "Alemania, Ratisbona",
+            "icon": "wbs",
+            "description": [
+                "Marketing Digital con HTML5 y E-Commerce",
+                "Proyecto con Shopware",
+                "Python: Fundamentos",
+                "Python: Funciones y módulos"
+            ]
+        },
+        {
+            "date": "2021-06 - 2022-09",
+            "title": "Gerente de Marketing Online Certificado",
+            "company": "Fernakademie für Erwachsenenbildung GmbH",
+            "location": "Remoto",
+            "icon": "klett",
+            "description": [
+                "Desarrollo y diseño web",
+                "Marketing online",
+                "Marketing en motores de búsqueda: SEO y SEA",
+                "Análisis web",
+                "Monitoreo y marketing en redes sociales",
+                "E-Commerce y tiendas en línea",
+                "Publicidad en banners, marketing por correo electrónico",
+                "Aspectos legales"
+            ]
+        },
+        {
+            "date": "2008-09 - 2011-07",
+            "title": "Formación profesional dual como empleado especializado en comunicación de oficina",
+            "company": "Oficina principal de aduanas de Ratisbona",
+            "location": "Alemania, Ratisbona",
+            "icon": "zoll",
+            "description": [
+                "Tareas administrativas",
+                "Asistente de departamento"
+            ]
+        }
+    ],
+    "careerEvents": [
+        {
+            "date": "2023-10 - ahora",
+            "title": "Empleado de Gestión de Suscripciones y Colaborador del Equipo de UX en el Portal de Clientes",
+            "company": "Deutsche Bahn AG",
+            "location": "Alemania, Ratisbona",
+            "icon": "db",
+            "description": [
+                "Gestión de suscripciones",
+                "Instrucción a los usuarios finales sobre nuestras aplicaciones",
+                "Colaboración y asesoramiento en marketing digital y UX"
+            ]
+        },
+        {
+            "date": "2022-09 - ahora",
+            "title": "Atención al cliente y soporte",
+            "company": "Boulderwelt GmbH",
+            "location": "Alemania, Ratisbona",
+            "icon": "bwr",
+            "description": [
+                "Servicio de consultoría",
+                "Instrucción para nuevos clientes",
+                "Cuidado de plantas"
+            ]
+        },
+        {
+            "date": "2019-04 - 2021-06",
+            "title": "Gerente de Sucursal",
+            "company": "Adolf Würth GmbH & Co. KG",
+            "location": "Alemania, Landshut",
+            "icon": "wuerth",
+            "description": [
+                "Presentación y venta de productos",
+                "Campañas de marketing regional",
+                "Soporte y servicio al cliente"
+            ]
+        },
+        {
+            "date": "2018-10 - 2019-03",
+            "title": "Asistente de ventas",
+            "company": "New Yorker Fashion",
+            "location": "Alemania, Landshut",
+            "icon": "nyf",
+            "description": [
+                "Presentación y venta de productos",
+                "Soporte y servicio al cliente"
+            ]
+        },
+        {
+            "date": "2017-07 - 2018-09",
+            "title": "Ventas internas",
+            "company": "Wittmann Recycling GmbH",
+            "location": "Alemania, Ergolding",
+            "icon": "wittmann",
+            "description": [
+                "Gestión de ofertas",
+                "Gestión de consultas de clientes",
+                "Asesoramiento sobre problemas de hardware de oficina"
+            ]
+        },
+        {
+            "date": "2013-10 - 2017-02",
+            "title": "Especialista en Derecho de Beneficios para Solicitantes de Asilo",
+            "company": "Oficina del Condado de Landshut",
+            "location": "Alemania, Landshut",
+            "icon": "lra",
+            "description": [
+                "Aplicación de regulaciones legales",
+                "Asistencia sanitaria"
+            ]
+        },
+        {
+            "date": "2012-10 - 2013-06",
+            "title": "Secretario en construcción",
+            "company": "Guggenberger Bau GmbH",
+            "location": "Alemania, Mintraching",
+            "icon": "guggenberger",
+            "description": [
+                "Correspondencia con subcontratistas y clientes",
+                "Administración de planos de construcción",
+                "Creación de archivos de obras"
+            ]
+        },
+        {
+            "date": "2011-09 - 2012-09",
+            "title": "Jefe de oficina",
+            "company": "Centro de Educación y Ciencia de la Administración Financiera Federal",
+            "location": "Alemania, Múnich",
+            "icon": "zoll",
+            "description": [
+                "Asistente de la gerencia",
+                "Procesamiento de solicitudes de vacaciones y ausencias",
+                "Monitoreo de registro de tiempo"
+            ]
+        }
+    ]
+}
