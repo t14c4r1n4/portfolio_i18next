@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("./assets/fonts/Orbitron-VariableFont_wght.ttf");
+}
+
+@keyframes progress {
+  from {
+    transform: scaleX(0);
+  }
+
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@layer components {
+  .clip-circle {
+    clip-path: circle(50% at 50% 50%);
+  }
+
+  .clip-triangle {
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+
+  .progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transform-origin: left center;
+    background-color: lightgrey;
+    animation: linear progress forwards;
+    animation-timeline: scroll(root block);
+  }
+
+  /* Hexagonal Shape as Background for TechIcons */
+  .hex {
+    grid-area: 1/1;
+    width: var(--s);
+    aspect-ratio: 0.866;
+    object-fit: cover;
+    clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0);
+    transform: translate(var(--_x, 0), var(--_y, 0)) scale(var(--_t, 1));
+    cursor: pointer;
+    transition: 0.2s linear;
+  }
+
+  .hex:hover {
+    z-index: 1;
+    --_t: 1.2;
+  }
+
+  .divider {
+    height: 250px;
+    min-height: 1em;
+    width: 1px;
+    align-self: stretch;
+    background-image: linear-gradient(to top right,
+        transparent,
+        #a5a5a5,
+        transparent);
+    opacity: 0.25;
+  }
+
+  .dark .divider {
+    background-image: linear-gradient(to top right,
+        transparent,
+        #8c8c8c,
+        transparent);
+  }
+
+  .tooltip {
+    visibility: hidden;
+    position: absolute;
+    border-radius: 50;
+  }
+
+  .has-tooltip:hover .tooltip {
+    visibility: visible;
+    z-index: 100;
+  }
+
+  /* Navbar Hover-Effect */
+  nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  nav ul li {
+    margin: 0 10px;
+    transition: 0.5s;
+    color: #6B21A8;
+  }
+
+  nav ul li a {
+    display: block;
+    position: relative;
+    padding: 5px;
+    text-transform: uppercase;
+    transition: 0.5s;
+  }
+
+  nav ul:hover li a {
+    transform: scale(1.5);
+    opacity: 0.2;
+    filter: blur(5px);
+  }
+
+  nav ul li a:hover {
+    transform: scale(2);
+    opacity: 1;
+    filter: blur(0);
+  }
+
+  nav ul li a:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    transition: 0.5s;
+    transform-origin: right;
+    transform: scaleX(0);
+    z-index: -1;
+  }
+
+  nav ul li a:hover:before {
+    transition: transform 0.5s;
+    transform-origin: left;
+    transform: scaleX(1);
+  }
+
+  .nav-active {
+    text-decoration: underline;
+    text-decoration-thickness: 6px;
+    text-decoration-color: #075985;
+    text-underline-position: under;
+    font-size: larger;
+    font-stretch: extra-expanded;
+  }
+
+  .keywords {
+    font-weight: 500;
+    font-size: large;
+    color: #9333EA;
+  }
+
+  input,
+  textarea {
+    display: block;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    width: 100%;
+    min-height: 2.5rem;
+    appearance: none;
+    background-color: #18181b;
+    padding: 1rem;
+  }
+
+  .form-group {
+    margin-top: 30px;
+  }
+
+  .form-label {
+    left: 0;
+    top: 10px;
+    color: #d4d4d8;
+    padding-left: 1rem;
+    z-index: 10;
+    transition: transform 150ms ease-out, font-size 150ms ease-out;
+  }
+
+  .form-submit {
+    margin-top: 1rem;
+    background-color: #27272a;
+  }
+
+  .form-submit:hover {
+    background-color: #3b0764;
+  }
+
+  .form-input {
+    position: relative;
+    padding: .75rem 0px .75rem 1rem;
+    outline: 0;
+    border: 0;
+    box-shadow: 0 1px 0 0 #e5e5e5;
+  }
+
+  .form-input:hover {
+    background-color: #71717A;
+  }
+
+  .form-input:focus {
+    box-shadow: 0 2px 0 0 #7e22ce;
+  }
+
+  ::placeholder {
+    padding-left: 4px;
+    opacity: 50;
+  }
+
+  ::placeholder:focus {
+    opacity: 0;
+  }
+
+  .Modal {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+    background-color: #3F3F46;
+    padding: 30px 10px 10px 10px;
+    color: #D4D4D8;
+    overflow-y: auto;
+    /* Ermöglicht das Scrollen im Modal */
+    max-height: 80vh;
+    /* Begrenzung der Höhe des Modals */
+    border-radius: 8px;
+    /* Abgerundete Ecken */
+  }
+
+  .Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(39, 39, 42, 0.85);
+    /* Halbtransparentes Overlay */
+    z-index: 999;
+    /* Sicherstellen, dass das Overlay über allem liegt */
+  }
+
+}

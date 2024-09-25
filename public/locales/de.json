@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "home": "Home",
+    "services": "Leistungen",
+    "career": "Werdegang",
+    "contact": "Kontakt",
+    "search": "Suche"
+  },
+  "about": {
+    "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war.Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Ich begann einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden, der auch einige Module in HTML5 und CSS3 enthielt. Ich war fasziniert von dem, was ich mit diesen Sprachen erschaffen konnte.Dann erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler mit Grundlagen in Python. Dies war mein Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für Webentwicklung.In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Derzeit bevorzuge ich React wegen seiner einfachen Syntax und der lebendigen Community."
+  },
+  "hero": {
+    "intro": "Ich bin Carina Arnold. Ich liebe es, moderne, funktionale Websites mit minimalistischem Design zu erstellen. {<a href=\"#contact\">Kontaktieren Sie mich jetzt</a>} und erzählen Sie mir von Ihrem Projekt."
+  },
+  "contact": {
+    "name": {
+      "label": "Name",
+      "placeholder": "Name",
+      "message": "Tell me your name"
+    },
+    "email": {
+      "label": "E-Mail",
+      "placeholder": "E-Mail",
+      "message": "Wie lautet deine E-Mail-Adresse?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Message",
+      "message": "Deine Nachricht"
+    },
+    "submit": "Senden"
+  },
+  "timeline": {
+    "education": "Berufliche Weiterbildung",
+    "career": "Karriere",
+    "edu": {
+      "events": [
+        {
+          "nr": 1,
+          "id": "wbs",
+          "date": "2022-10 - 2023-01",
+          "title": "Berufliche Weiterbildung in Webentwicklung/ E-Commerce mit Python-Grundlagen",
+          "company": "WBS Training AG",
+          "location": "Deutschland, Regensburg",
+          "icon": "wbs",
+          "description": [
+            "Digitales Marketing mit HTML5 und E-Commerce",
+            "Projekt mit Shopware",
+            "Python: Grundlagen",
+            "Python: Funktionen und Module"
+          ]
+        },
+        {
+          "nr": 2,
+          "id": "klett",
+          "date": "2021-06 - 2022-09",
+          "title": "Zertifizierter Online-Marketing-Manager",
+          "company": "Fernakademie für Erwachsenenbildung GmbH",
+          "location": "Remote",
+          "icon": "klett",
+          "description": [
+            "Webentwicklung und Webdesign",
+            "Online-Marketing",
+            "Suchmaschinenmarketing: SEO und SEA",
+            "Webanalyse",
+            "Social-Media-Monitoring und Marketing",
+            "E-Commerce und Onlineshops",
+            "Bannerwerbung, E-Mail-Marketing",
+            "Rechtliche Aspekte"
+          ]
+        },
+        {
+          "nr": 3,
+          "id": "hza",
+          "date": "2008-09 - 2011-07",
+          "title": "Duale Berufsausbildung als Fachangestellte für Bürokommunikation",
+          "company": "Hauptzollamt Regensburg",
+          "location": "Deutschland, Regensburg",
+          "icon": "zoll",
+          "description": ["Verwaltungsaufgaben", "Abteilungsassistenz"]
+        }
+      ]
+    },
+    "work": {
+      "events": [
+        {
+          "nr": 1,
+          "id": "db",
+          "date": "2023-10 - jetzt",
+          "title": "Sachbearbeiter für Abonnementverwaltung und UX-Team-Mitarbeiter im Kundenportal",
+          "company": "Deutsche Bahn AG",
+          "location": "Deutschland, Regensburg",
+          "icon": "db",
+          "description": [
+            "Abonnementverwaltung",
+            "Einweisung der Endnutzer in unsere Anwendungen",
+            "Zusammenarbeit und Beratung im digitalen Marketing und UX"
+          ]
+        },
+        {
+          "nr": 2,
+          "id": "bwr",
+          "date": "2022-09 - jetzt",
+          "title": "Tresenpersonal & Kundensupport",
+          "company": "Boulderwelt GmbH",
+          "location": "Deutschland, Regensburg",
+          "icon": "bwr",
+          "description": [
+            "Beratung",
+            "Einweisung neuer Kunden",
+            "Pflanzenpflege"
+          ]
+        },
+        {
+          "nr": 3,
+          "id": "wuerth",
+          "date": "2019-04 - 2021-06",
+          "title": "Filialleiter",
+          "company": "Adolf Würth GmbH & Co. KG",
+          "location": "Deutschland, Landshut",
+          "icon": "wuerth",
+          "description": [
+            "Produktpräsentation und Vertrieb",
+            "Regionale Marketingkampagnen",
+            "Kundensupport und -service"
+          ]
+        },
+        {
+          "nr": 4,
+          "id": "nyf",
+          "date": "2018-10 - 2019-03",
+          "title": "Verkaufsmitarbeiter",
+          "company": "New Yorker Fashion",
+          "location": "Deutschland, Landshut",
+          "icon": "nyf",
+          "description": [
+            "Produktpräsentation und Vertrieb",
+            "Kundensupport und -service"
+          ]
+        },
+        {
+          "nr": 5,
+          "id": "witt",
+          "date": "2017-07 - 2018-09",
+          "title": "Innendienst",
+          "company": "Wittmann Recycling GmbH",
+          "location": "Deutschland, Ergolding",
+          "icon": "wittmann",
+          "description": [
+            "Angebotsmanagement",
+            "Bearbeitung von Kundenanfragen",
+            "Beratung bei Problemen mit Bürohardware"
+          ]
+        },
+        {
+          "nr": 6,
+          "id": "lral",
+          "date": "2013-10 - 2017-02",
+          "title": "Fachkraft im Asylbewerberleistungsgesetz",
+          "company": "Landratsamt Landshut",
+          "location": "Deutschland, Landshut",
+          "icon": "lra",
+          "description": [
+            "Anwendung von rechtlichen Vorschriften",
+            "Gesundheitshilfe"
+          ]
+        },
+        {
+          "nr": 7,
+          "id": "gugg",
+          "date": "2012-10 - 2013-06",
+          "title": "Sekretär im Hochbau",
+          "company": "Guggenberger Bau GmbH",
+          "location": "Deutschland, Mintraching",
+          "icon": "guggenberger",
+          "description": [
+            "Korrespondenz mit Subunternehmern und Kunden",
+            "Verwaltung von Bauplänen",
+            "Erstellung von Baustellenakten"
+          ]
+        },
+        {
+          "nr": 8,
+          "id": "bwz",
+          "date": "2011-09 - 2012-09",
+          "title": "Assistenz der Geschäftsführung",
+          "company": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+          "location": "Deutschland, München",
+          "icon": "zoll",
+          "description": [
+            "Assistenz der Geschäftsführung",
+            "Bearbeitung von Urlaubsanträgen und Abwesenheiten",
+            "Überwachung der Zeiterfassung"
+          ]
+        }
+      ]
+    }
+  }
+}

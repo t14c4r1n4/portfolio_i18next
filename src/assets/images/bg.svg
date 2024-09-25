@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title94">Background</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient110">
+      <stop
+         style="stop-color:#8940ff;stop-opacity:1;"
+         offset="0.0506111"
+         id="stop109" />
+      <stop
+         style="stop-color:#3fc1ff;stop-opacity:0.80510181;"
+         offset="0.68719488"
+         id="stop112" />
+      <stop
+         style="stop-color:#d926ed;stop-opacity:0.87633169;"
+         offset="0.82730263"
+         id="stop111" />
+    </linearGradient>
+    <polygon
+       id="hexagon"
+       points="50,0 150,0 200,86.6 150,173.2 50,173.2 0,86.6 " />
+    <rect
+       id="rect6"
+       width="0"
+       height="0"
+       x="0"
+       y="0" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter96"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix94" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix95" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix96" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient110"
+       id="linearGradient103-2"
+       gradientUnits="userSpaceOnUse"
+       x1="-381.7243"
+       y1="165.63483"
+       x2="-84.183563"
+       y2="165.63483"
+       spreadMethod="reflect" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter96-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix94-2" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix95-7" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix96-6" />
+    </filter>
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(381.73003,-61.724318)">
+    <rect
+       style="display:inline;fill:url(#linearGradient103-2);fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter96-0)"
+       id="rect94-3"
+       width="297.54074"
+       height="208.83385"
+       x="-381.7243"
+       y="61.217911"
+       transform="matrix(-2.8183279,1.3668561,-1.4508993,-2.6641349,-699.25255,1041.1158)" />
+    <g
+       id="layer1"
+       style="display:inline;fill:#101010;fill-opacity:1"
+       transform="translate(8.3333332e-6)">
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-4-7"
+         transform="matrix(0.225762,0,0,0.225762,-546.92916,456.1986)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-87-3"
+         transform="matrix(0.225762,0,0,0.225762,-501.799,495.34774)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-1-6"
+         transform="matrix(0.225762,0,0,0.225762,-524.34313,456.20097)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-72-5"
+         transform="matrix(0.225762,0,0,0.225762,-524.37874,495.34491)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-7-6"
+         transform="matrix(0.225762,0,0,0.225762,-546.92476,417.09071)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-39"
+         transform="matrix(0.225762,0,0,0.225762,-513.00968,280.087)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-4"
+         transform="matrix(0.225762,0,0,0.225762,-467.87952,319.23614)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-81"
+         transform="matrix(0.225762,0,0,0.225762,-490.42365,280.08937)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-4"
+         transform="matrix(0.225762,0,0,0.225762,-208.46319,339.00205)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-87"
+         transform="matrix(0.225762,0,0,0.225762,-163.33303,378.15118)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-1"
+         transform="matrix(0.225762,0,0,0.225762,-185.87716,339.00442)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-72"
+         transform="matrix(0.225762,0,0,0.225762,-185.91277,378.14836)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-7"
+         transform="matrix(0.225762,0,0,0.225762,-208.45879,299.89415)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1"
+         transform="matrix(0.225762,0,0,0.225762,-174.5437,162.89045)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2"
+         transform="matrix(0.225762,0,0,0.225762,-129.41355,202.03959)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3"
+         transform="matrix(0.225762,0,0,0.225762,-151.95768,162.89282)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4"
+         transform="matrix(0.225762,0,0,0.225762,-151.99329,202.03677)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5"
+         transform="matrix(0.225762,0,0,0.225762,-174.53931,123.78257)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3"
+         transform="matrix(0.225762,0,0,0.225762,-174.55154,201.99464)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5"
+         transform="matrix(0.225762,0,0,0.225762,-174.54211,162.89684)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1"
+         transform="matrix(0.225762,0,0,0.225762,-72.93538,182.50046)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2"
+         transform="matrix(0.225762,0,0,0.225762,-27.80522,221.6496)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7"
+         transform="matrix(0.225762,0,0,0.225762,-50.34935,182.50283)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0"
+         transform="matrix(0.225762,0,0,0.225762,-50.38496,221.64677)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9"
+         transform="matrix(0.225762,0,0,0.225762,-72.93098,143.39258)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3"
+         transform="matrix(0.225762,0,0,0.225762,-72.94321,221.60466)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6"
+         transform="matrix(0.225762,0,0,0.225762,-72.93378,182.50685)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6"
+         transform="matrix(0.225762,0,0,0.225762,-106.78643,84.63347)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1"
+         transform="matrix(0.225762,0,0,0.225762,-61.723031,123.89995)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8"
+         transform="matrix(0.225762,0,0,0.225762,-84.2004,84.63584)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7"
+         transform="matrix(0.225762,0,0,0.225762,-84.23601,123.77979)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92"
+         transform="matrix(0.225762,0,0,0.225762,-106.78203,45.52559)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0"
+         transform="matrix(0.225762,0,0,0.225762,-106.79426,123.73767)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2"
+         transform="matrix(0.225762,0,0,0.225762,-106.78483,84.63986)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-2"
+         transform="matrix(0.225762,0,0,0.225762,-208.47102,378.10623)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-26"
+         transform="matrix(0.225762,0,0,0.225762,-208.46158,339.00844)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-1"
+         transform="matrix(0.225762,0,0,0.225762,-106.85486,358.61205)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-0"
+         transform="matrix(0.225762,0,0,0.225762,-61.7247,397.76121)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-6"
+         transform="matrix(0.225762,0,0,0.225762,-84.26883,358.61443)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-1"
+         transform="matrix(0.225762,0,0,0.225762,-84.30444,397.75838)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-5"
+         transform="matrix(0.225762,0,0,0.225762,-106.85046,319.50416)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-9"
+         transform="matrix(0.225762,0,0,0.225762,-106.86269,397.71623)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-49"
+         transform="matrix(0.225762,0,0,0.225762,-106.85325,358.61844)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-0"
+         transform="matrix(0.225762,0,0,0.225762,-140.70591,260.74506)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-9"
+         transform="matrix(0.225762,0,0,0.225762,-95.57576,299.8942)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-1"
+         transform="matrix(0.225762,0,0,0.225762,-118.11989,260.74743)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-77"
+         transform="matrix(0.225762,0,0,0.225762,-118.15549,299.89137)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-1"
+         transform="matrix(0.225762,0,0,0.225762,-140.70151,221.63718)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-1"
+         transform="matrix(0.225762,0,0,0.225762,-140.71374,299.84927)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-5"
+         transform="matrix(0.225762,0,0,0.225762,-140.70431,260.75146)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-2"
+         transform="matrix(0.225762,0,0,0.225762,-5.1183207,104.48709)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-5"
+         transform="matrix(0.225762,0,0,0.225762,39.84036,143.41933)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-47"
+         transform="matrix(0.225762,0,0,0.225762,17.29623,104.27256)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-4"
+         transform="matrix(0.225762,0,0,0.225762,17.26063,143.41651)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-4"
+         transform="matrix(0.225762,0,0,0.225762,-5.2854,65.16231)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-30"
+         transform="matrix(0.225762,0,0,0.225762,-5.29762,143.37439)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-7"
+         transform="matrix(0.225762,0,0,0.225762,-5.28819,104.27658)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-7"
+         transform="matrix(0.225762,0,0,0.225762,-39.2012,280.40257)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-8"
+         transform="matrix(0.225762,0,0,0.225762,5.92896,319.5517)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-4"
+         transform="matrix(0.225762,0,0,0.225762,-16.61518,280.40494)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-5"
+         transform="matrix(0.225762,0,0,0.225762,-16.65078,319.54888)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-0"
+         transform="matrix(0.225762,0,0,0.225762,-39.19681,241.29469)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-36"
+         transform="matrix(0.225762,0,0,0.225762,-39.20903,319.50677)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-1"
+         transform="matrix(0.225762,0,0,0.225762,-39.1996,280.40895)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-0"
+         transform="matrix(0.225762,0,0,0.225762,62.40713,300.01258)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-6"
+         transform="matrix(0.225762,0,0,0.225762,107.53729,339.16171)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-3"
+         transform="matrix(0.225762,0,0,0.225762,84.99315,300.01496)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-2"
+         transform="matrix(0.225762,0,0,0.225762,84.95754,339.1589)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-0"
+         transform="matrix(0.225762,0,0,0.225762,62.41152,260.90469)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-6"
+         transform="matrix(0.225762,0,0,0.225762,62.3993,339.11677)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-1"
+         transform="matrix(0.225762,0,0,0.225762,62.40873,300.01896)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-5"
+         transform="matrix(0.225762,0,0,0.225762,28.55608,202.14559)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-5"
+         transform="matrix(0.225762,0,0,0.225762,73.68624,241.29472)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-4"
+         transform="matrix(0.225762,0,0,0.225762,51.1421,202.14795)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-7"
+         transform="matrix(0.225762,0,0,0.225762,51.1065,241.29191)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-6"
+         transform="matrix(0.225762,0,0,0.225762,28.56047,163.03771)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-5"
+         transform="matrix(0.225762,0,0,0.225762,28.54825,241.24979)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-6"
+         transform="matrix(0.225762,0,0,0.225762,28.55768,202.15198)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-8"
+         transform="matrix(0.225762,0,0,0.225762,96.31854,123.8802)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-68"
+         transform="matrix(0.225762,0,0,0.225762,141.4487,163.02934)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-8"
+         transform="matrix(0.225762,0,0,0.225762,118.90456,123.88257)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-4"
+         transform="matrix(0.225762,0,0,0.225762,118.86897,163.02652)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-3"
+         transform="matrix(0.225762,0,0,0.225762,-39.043631,45.481292)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-1"
+         transform="matrix(0.225762,0,0,0.225762,96.3107,162.9844)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-4"
+         transform="matrix(0.225762,0,0,0.225762,96.32015,123.88659)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-9"
+         transform="matrix(0.225762,0,0,0.225762,62.46749,26.01321)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-2"
+         transform="matrix(0.225762,0,0,0.225762,107.59764,65.16235)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-0"
+         transform="matrix(0.225762,0,0,0.225762,85.0535,26.01558)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-6"
+         transform="matrix(0.225762,0,0,0.225762,85.01792,65.15953)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-8"
+         transform="matrix(0.225762,0,0,0.225762,62.47188,-13.09468)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-9"
+         transform="matrix(0.225762,0,0,0.225762,62.45966,65.11741)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-2"
+         transform="matrix(0.225762,0,0,0.225762,62.46909,26.0196)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-2"
+         transform="matrix(0.225762,0,0,0.225762,-490.45926,319.23332)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-93"
+         transform="matrix(0.225762,0,0,0.225762,-513.00528,240.97912)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-9"
+         transform="matrix(0.225762,0,0,0.225762,-513.01751,319.1912)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-0"
+         transform="matrix(0.225762,0,0,0.225762,-513.00808,280.09339)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-88"
+         transform="matrix(0.225762,0,0,0.225762,-411.40135,299.69701)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-5"
+         transform="matrix(0.225762,0,0,0.225762,-366.27119,338.84615)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-0"
+         transform="matrix(0.225762,0,0,0.225762,-388.81533,299.69938)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-9"
+         transform="matrix(0.225762,0,0,0.225762,-388.85093,338.84333)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-6"
+         transform="matrix(0.225762,0,0,0.225762,-411.39695,260.58913)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-3"
+         transform="matrix(0.225762,0,0,0.225762,-411.40918,338.80122)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-8"
+         transform="matrix(0.225762,0,0,0.225762,-411.39975,299.70341)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-56"
+         transform="matrix(0.225762,0,0,0.225762,-445.2524,201.83002)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-1"
+         transform="matrix(0.225762,0,0,0.225762,-400.12224,240.97916)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-15"
+         transform="matrix(0.225762,0,0,0.225762,-422.66638,201.8324)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-9"
+         transform="matrix(0.225762,0,0,0.225762,-422.70198,240.97634)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-84"
+         transform="matrix(0.225762,0,0,0.225762,-445.248,162.72214)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-8"
+         transform="matrix(0.225762,0,0,0.225762,-445.26023,240.93423)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-1"
+         transform="matrix(0.225762,0,0,0.225762,-445.2508,201.83642)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-2-0"
+         transform="matrix(0.225762,0,0,0.225762,-546.93699,495.30279)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-26-3"
+         transform="matrix(0.225762,0,0,0.225762,-546.92755,456.20499)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-1-0"
+         transform="matrix(0.225762,0,0,0.225762,-445.32083,475.80861)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-0-4"
+         transform="matrix(0.225762,0,0,0.225762,-400.19067,514.95776)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-6-4"
+         transform="matrix(0.225762,0,0,0.225762,-422.73481,475.81098)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-1-4"
+         transform="matrix(0.225762,0,0,0.225762,-422.77041,514.95493)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-5-4"
+         transform="matrix(0.225762,0,0,0.225762,-445.31643,436.70072)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-9-7"
+         transform="matrix(0.225762,0,0,0.225762,-445.32866,514.9128)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-49-6"
+         transform="matrix(0.225762,0,0,0.225762,-445.31923,475.815)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-0-3"
+         transform="matrix(0.225762,0,0,0.225762,-479.17188,377.94162)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-9-1"
+         transform="matrix(0.225762,0,0,0.225762,-434.04172,417.09076)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-1-7"
+         transform="matrix(0.225762,0,0,0.225762,-456.58586,377.94399)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-77-5"
+         transform="matrix(0.225762,0,0,0.225762,-456.62146,417.08793)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-1-9"
+         transform="matrix(0.225762,0,0,0.225762,-479.16749,338.83374)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-1-6"
+         transform="matrix(0.225762,0,0,0.225762,-479.17971,417.04582)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-5-2"
+         transform="matrix(0.225762,0,0,0.225762,-479.17028,377.94801)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-2-1"
+         transform="matrix(0.225762,0,0,0.225762,-343.75576,221.46674)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-5-7"
+         transform="matrix(0.225762,0,0,0.225762,-298.62561,260.61588)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-47-8"
+         transform="matrix(0.225762,0,0,0.225762,-321.16974,221.46911)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-4-5"
+         transform="matrix(0.225762,0,0,0.225762,-321.20534,260.61306)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-4-7"
+         transform="matrix(0.225762,0,0,0.225762,-343.75137,182.35886)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-30-4"
+         transform="matrix(0.225762,0,0,0.225762,-343.76359,260.57094)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-7-1"
+         transform="matrix(0.225762,0,0,0.225762,-343.75416,221.47313)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-7-8"
+         transform="matrix(0.225762,0,0,0.225762,-377.66717,397.59912)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-8-5"
+         transform="matrix(0.225762,0,0,0.225762,-332.53701,436.74826)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-4-9"
+         transform="matrix(0.225762,0,0,0.225762,-355.08115,397.60149)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-5-7"
+         transform="matrix(0.225762,0,0,0.225762,-355.11675,436.74544)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-0-5"
+         transform="matrix(0.225762,0,0,0.225762,-377.66278,358.49124)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-36-3"
+         transform="matrix(0.225762,0,0,0.225762,-377.675,436.70332)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-1-8"
+         transform="matrix(0.225762,0,0,0.225762,-377.66557,397.60551)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-0-8"
+         transform="matrix(0.225762,0,0,0.225762,-276.05884,417.20914)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-6-3"
+         transform="matrix(0.225762,0,0,0.225762,-230.92868,456.35827)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-3-1"
+         transform="matrix(0.225762,0,0,0.225762,-253.47282,417.21151)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-2-8"
+         transform="matrix(0.225762,0,0,0.225762,-253.50842,456.35545)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-0-9"
+         transform="matrix(0.225762,0,0,0.225762,-276.05445,378.10125)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-6-6"
+         transform="matrix(0.225762,0,0,0.225762,-276.06667,456.31333)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-1-4"
+         transform="matrix(0.225762,0,0,0.225762,-276.05724,417.21552)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-5-3"
+         transform="matrix(0.225762,0,0,0.225762,-309.90989,319.34214)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-5-3"
+         transform="matrix(0.225762,0,0,0.225762,-264.77974,358.49128)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-4-3"
+         transform="matrix(0.225762,0,0,0.225762,-287.32387,319.34451)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-7-8"
+         transform="matrix(0.225762,0,0,0.225762,-287.35947,358.48846)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-6-6"
+         transform="matrix(0.225762,0,0,0.225762,-309.9055,280.23426)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-5-0"
+         transform="matrix(0.225762,0,0,0.225762,-309.91772,358.44634)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-4-7-9"
+         transform="matrix(0.225762,0,0,0.225762,-478.8792,103.81791)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-87-3-4"
+         transform="matrix(0.225762,0,0,0.225762,-433.74905,142.96705)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-1-6-6"
+         transform="matrix(0.225762,0,0,0.225762,-456.29318,103.82028)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-72-5-9"
+         transform="matrix(0.225762,0,0,0.225762,-456.32879,142.96422)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-7-6-2"
+         transform="matrix(0.225762,0,0,0.225762,-478.87481,64.71002)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-39-2"
+         transform="matrix(0.225762,0,0,0.225762,-278.51782,-23.036014)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-4-4"
+         transform="matrix(0.225762,0,0,0.225762,-399.82957,-33.14455)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-81-7"
+         transform="matrix(0.225762,0,0,0.225762,-255.9318,-23.033644)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-2-7"
+         transform="matrix(0.225762,0,0,0.225762,-422.40931,-33.14737)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-93-5"
+         transform="matrix(0.225762,0,0,0.225762,-278.51343,-62.143897)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-9-4"
+         transform="matrix(0.225762,0,0,0.225762,-444.96756,-33.18949)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-0-8"
+         transform="matrix(0.225762,0,0,0.225762,-278.51623,-23.029624)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-88-1"
+         transform="matrix(0.225762,0,0,0.225762,-176.9095,-3.4260036)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-5-2"
+         transform="matrix(0.225762,0,0,0.225762,-298.22124,-13.53454)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-0-8"
+         transform="matrix(0.225762,0,0,0.225762,-154.32347,-3.4236336)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-9-9"
+         transform="matrix(0.225762,0,0,0.225762,-320.80098,-13.53736)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-6-3"
+         transform="matrix(0.225762,0,0,0.225762,-176.9051,-42.533884)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-3-6"
+         transform="matrix(0.225762,0,0,0.225762,-343.35923,-13.57947)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-8-8"
+         transform="matrix(0.225762,0,0,0.225762,-343.3498,-52.67728)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-56-0"
+         transform="matrix(0.225762,0,0,0.225762,-210.76055,-101.29301)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-1-2"
+         transform="matrix(0.225762,0,0,0.225762,-165.63039,-62.143857)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-15-1"
+         transform="matrix(0.225762,0,0,0.225762,-188.17452,-101.29063)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-9-0"
+         transform="matrix(0.225762,0,0,0.225762,-188.21013,-62.146677)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-84-5"
+         transform="matrix(0.225762,0,0,0.225762,-210.75615,-140.40089)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-8-1"
+         transform="matrix(0.225762,0,0,0.225762,-210.76838,-62.188797)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-1-1"
+         transform="matrix(0.225762,0,0,0.225762,-267.00431,-102.32241)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-2-0-0"
+         transform="matrix(0.225762,0,0,0.225762,-478.88703,142.9221)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-26-3-8"
+         transform="matrix(0.225762,0,0,0.225762,-478.87761,103.8243)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-1-0-5"
+         transform="matrix(0.225762,0,0,0.225762,-377.27088,123.42792)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-0-4-0"
+         transform="matrix(0.225762,0,0,0.225762,-332.14072,162.57707)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-6-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-354.68485,123.43029)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-1-4-4"
+         transform="matrix(0.225762,0,0,0.225762,-354.72046,162.57424)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-5-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-377.26648,84.32003)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-9-7-2"
+         transform="matrix(0.225762,0,0,0.225762,-377.27871,162.53211)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-49-6-5"
+         transform="matrix(0.225762,0,0,0.225762,-377.26927,123.43431)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-0-3-8"
+         transform="matrix(0.225762,0,0,0.225762,-411.12193,25.56093)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-9-1-6"
+         transform="matrix(0.225762,0,0,0.225762,-365.99178,64.71007)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-1-7-2"
+         transform="matrix(0.225762,0,0,0.225762,-388.53591,25.5633)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-77-5-8"
+         transform="matrix(0.225762,0,0,0.225762,-388.57151,64.70724)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-1-9-4"
+         transform="matrix(0.225762,0,0,0.225762,-411.11753,-13.54695)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-1-6-7"
+         transform="matrix(0.225762,0,0,0.225762,-411.12976,64.66513)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-5-2-2"
+         transform="matrix(0.225762,0,0,0.225762,-411.12033,25.56732)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-2-1-4"
+         transform="matrix(0.225762,0,0,0.225762,-100.42715,-94.179072)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-5-7-0"
+         transform="matrix(0.225762,0,0,0.225762,-64.133753,-42.507134)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-47-8-6"
+         transform="matrix(0.225762,0,0,0.225762,-77.841123,-94.176702)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-4-5-2"
+         transform="matrix(0.225762,0,0,0.225762,-86.713487,-42.509954)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-4-7-9"
+         transform="matrix(0.225762,0,0,0.225762,-100.42276,-133.28695)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-30-4-9"
+         transform="matrix(0.225762,0,0,0.225762,-109.27174,-42.552074)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-7-1-0"
+         transform="matrix(0.225762,0,0,0.225762,-109.26231,-81.649887)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-7-8-8"
+         transform="matrix(0.225762,0,0,0.225762,-309.61722,45.21843)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-8-5-1"
+         transform="matrix(0.225762,0,0,0.225762,-264.48706,84.36757)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-4-9-3"
+         transform="matrix(0.225762,0,0,0.225762,-287.0312,45.2208)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-5-7-1"
+         transform="matrix(0.225762,0,0,0.225762,-287.0668,84.36475)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-0-5-1"
+         transform="matrix(0.225762,0,0,0.225762,-309.61283,6.11055)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-36-3-0"
+         transform="matrix(0.225762,0,0,0.225762,-309.62505,84.32263)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-1-8-3"
+         transform="matrix(0.225762,0,0,0.225762,-309.61562,45.22482)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-0-8-4"
+         transform="matrix(0.225762,0,0,0.225762,-208.00889,64.82845)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-6-3-0"
+         transform="matrix(0.225762,0,0,0.225762,-162.87873,103.97758)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-3-1-3"
+         transform="matrix(0.225762,0,0,0.225762,-185.42287,64.83082)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-99"
+         transform="matrix(0.225762,0,0,0.225762,-106.7551,45.415961)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-14"
+         transform="matrix(0.225762,0,0,0.225762,-84.169069,45.418331)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-9"
+         transform="matrix(0.225762,0,0,0.225762,-106.7507,6.3080808)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-4-1"
+         transform="matrix(0.225762,0,0,0.225762,-5.2540688,25.944801)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-3-0"
+         transform="matrix(0.225762,0,0,0.225762,-39.0123,6.2637828)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-9-7"
+         transform="matrix(0.225762,0,0,0.225762,62.490991,25.899901)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-3-1-3-5"
+         transform="matrix(0.225762,0,0,0.225762,-185.39154,25.613311)"
+         style="display:inline;fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-2-8-9"
+         transform="matrix(0.225762,0,0,0.225762,-185.45847,103.97476)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-0-9-1"
+         transform="matrix(0.225762,0,0,0.225762,-208.0045,25.72056)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-6-6-9"
+         transform="matrix(0.225762,0,0,0.225762,-208.01672,103.93264)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-1-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-208.00729,64.83483)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-5-3-9"
+         transform="matrix(0.225762,0,0,0.225762,-241.85994,-33.03855)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-5-3-3"
+         transform="matrix(0.225762,0,0,0.225762,-196.72979,6.11059)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-4-3-3"
+         transform="matrix(0.225762,0,0,0.225762,-219.27392,-33.03618)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-7-8-8"
+         transform="matrix(0.225762,0,0,0.225762,-219.30952,6.10777)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-6-6-0"
+         transform="matrix(0.225762,0,0,0.225762,-75.413647,-22.888754)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-5-0-5"
+         transform="matrix(0.225762,0,0,0.225762,-241.86777,6.06565)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-6-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-241.85834,-33.03215)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-8-8-6"
+         transform="matrix(0.225762,0,0,0.225762,-7.6555729,-62.046257)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-68-8-4"
+         transform="matrix(0.225762,0,0,0.225762,37.474577,-22.897114)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-8-8-0"
+         transform="matrix(0.225762,0,0,0.225762,14.930447,-62.043887)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-4-9-0"
+         transform="matrix(0.225762,0,0,0.225762,14.894847,-22.899944)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-3-7-4"
+         transform="matrix(0.225762,0,0,0.225762,1.1855811,-113.67695)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-1-7-6"
+         transform="matrix(0.225762,0,0,0.225762,-7.6634029,-22.942054)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-4-6-2"
+         transform="matrix(0.225762,0,0,0.225762,-7.6539729,-62.039867)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-9-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-32.669859,-172.43604)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-2-3-7"
+         transform="matrix(0.225762,0,0,0.225762,12.460301,-133.28692)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-0-0-5"
+         transform="matrix(0.225762,0,0,0.225762,-10.083839,-172.43369)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-6-3-6"
+         transform="matrix(0.225762,0,0,0.225762,-10.119439,-133.28972)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-8-0-9"
+         transform="matrix(0.225762,0,0,0.225762,-41.502233,-199.02115)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-9-9-8"
+         transform="matrix(0.225762,0,0,0.225762,-32.677689,-133.33184)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-2-2-7"
+         transform="matrix(0.225762,0,0,0.225762,-32.668259,-172.42967)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-6-4"
+         transform="matrix(0.225762,0,0,0.225762,-309.90829,319.34854)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-1-8-8"
+         transform="matrix(0.225762,0,0,0.225762,-242.14743,241.07676)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-2-68-8"
+         transform="matrix(0.225762,0,0,0.225762,-197.01728,280.2259)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-7-8-8"
+         transform="matrix(0.225762,0,0,0.225762,-219.56141,241.07913)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-0-4-9"
+         transform="matrix(0.225762,0,0,0.225762,-219.59701,280.22307)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-9-3-7"
+         transform="matrix(0.225762,0,0,0.225762,-242.14304,201.96887)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-3-1-7"
+         transform="matrix(0.225762,0,0,0.225762,-242.15526,280.18096)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-6-4-6"
+         transform="matrix(0.225762,0,0,0.225762,-242.14583,241.08315)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-6-9-4"
+         transform="matrix(0.225762,0,0,0.225762,-275.99848,143.20976)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="100"
+         y="0"
+         id="use2-1-2-3"
+         transform="matrix(0.225762,0,0,0.225762,-230.86832,182.3589)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="200"
+         y="0"
+         id="use3-8-0-0"
+         transform="matrix(0.225762,0,0,0.225762,-253.41246,143.21214)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="50"
+         y="86.599998"
+         id="use4-7-6-3"
+         transform="matrix(0.225762,0,0,0.225762,-253.44806,182.35608)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-92-8-0"
+         transform="matrix(0.225762,0,0,0.225762,-275.99409,104.10188)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="0"
+         y="0"
+         id="use1-3-0-9-9"
+         transform="matrix(0.225762,0,0,0.225762,-276.00631,182.31396)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <use
+         href="#hexagon"
+         x="150"
+         y="86.599998"
+         id="use5-5-2-2-2"
+         transform="matrix(0.225762,0,0,0.225762,-275.99688,143.21616)"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+  </g>
+  <metadata
+     id="metadata94">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Background</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carina Arnold</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Carina Arnold</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Carina Arnold</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

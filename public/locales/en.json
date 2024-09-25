@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "about": "About",
+    "home": "Home",
+    "services": "Services",
+    "career": "Career",
+    "contact": "Contact",
+    "search": "Search"
+  },
+  "about": {
+    "intro": "<p>In 2022, after another temporary job, I decided that it was time for a change.</p><p>While traveling, I met a girl who worked as an online marketing manager, and it piqued my interest. I began a correspondence course to become a certified online marketing manager, which also included some HTML5 and CSS3 modules. I found myself fascinated by what I could create with these languages.</p><p>Then, I received an offer for a course as an Online Shop Developer with Python Basics. This marked my introduction to programming, and I discovered a passion for web development.</p><p>In my free time, I delved into Django, and later, JavaScript, React, and Vue. Currently, I favor React for its simple syntax and vibrant community.</p>"
+  },
+  "hero": {
+    "intro": "<p>They call me</p><h3>Carina Arnold</h3><p>I love to create modern, functional websites with minimalistic design.<a href=\"#contact\">Contact me now</a>and tell me about your project.</p>"
+  },
+  "contact": {
+    "name": {
+      "label": "Name",
+      "placeholder": "Name",
+      "message": "Tell me your name"
+    },
+    "email": {
+      "label": "E-Mail",
+      "placeholder": "E-Mail",
+      "message": "Enter your E-Mail-Adress"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Message",
+      "message": "Your Message"
+    },
+    "submit": "Submit"
+  },
+  "timeline": {
+    "education": "Professional Education",
+    "career": "Career",
+    "edu": {
+      "events": [
+        {
+          "nr": 1,
+          "id": "wbs",
+          "date": "2022-10 - 2023-01",
+          "title": "Professional Training in Web Development/ E-commerce with Python basics",
+          "company": "WBS Training AG",
+          "location": "Germany, Regensburg",
+          "icon": "wbs",
+          "description": [
+            "Digital Marketing with HTML5 and E-Commerce",
+            "Project with Shopware",
+            "Python: Fundamentals",
+            "Python: Functions and modules"
+          ]
+        },
+        {
+          "nr": 2,
+          "id": "klett",
+          "date": "2021-06 - 2022-09",
+          "title": "Certified Online-Marketing-Manager",
+          "company": "Fernakademie für Erwachsenenbildung GmbH",
+          "location": "remote",
+          "icon": "klett",
+          "description": [
+            "Webdevelopment and Webdesign",
+            "Online-Marketing",
+            "Search Engine Marketing: SEO and SEA",
+            "Webanalytics",
+            "Social-Media Monitoring and Marketing",
+            "E-Commerce and Onlineshops",
+            "Banner advertising, E-Mail-Marketing",
+            "Legal aspects"
+          ]
+        },
+        {
+          "nr": 3,
+          "id": "hza",
+          "date": "2008-09 - 2011-07",
+          "title": "Dual vocational training as specialized employee in office communication",
+          "company": "Main customs office Regensburg",
+          "location": "Germany, Regensburg",
+          "icon": "zoll",
+          "description": ["Administrative tasks", "Department assistant"]
+        }
+      ]
+    },
+    "work": {
+      "events": [
+        {
+          "nr": 1,
+          "id": "db",
+          "date": "2023-10 - now",
+          "title": "Subscription Management Clerk and UX-Team Collaborator Customer Portal",
+          "company": "Deutsche Bahn AG",
+          "location": "Germany, Regensburg",
+          "icon": "db",
+          "description": [
+            "Subscription management",
+            "End-users Instruction for our applications",
+            "Collaboration and consultant for digital marketing and UX"
+          ]
+        },
+        {
+          "nr": 2,
+          "id": "bwr",
+          "date": "2022-09 - now",
+          "title": "Counter attendant & Customer support",
+          "company": "Boulderwelt GmbH",
+          "location": "Germany, Regensburg",
+          "icon": "bwr",
+          "description": [
+            "Consulting service",
+            "Instruction for new customers",
+            "Plant care"
+          ]
+        },
+        {
+          "nr": 3,
+          "id": "wuerth",
+          "date": "2019-04 - 2021-06",
+          "title": "Branch Manager",
+          "company": "Adolf Würth GmbH & Co. KG",
+          "location": "Germany, Landshut",
+          "icon": "wuerth",
+          "description": [
+            "Product presentation and sales",
+            "Regional marketing campaigns",
+            "Customer support and service"
+          ]
+        },
+        {
+          "nr": 4,
+          "id": "nyf",
+          "date": "2018-10 - 2019-03",
+          "title": "Sales Attendant",
+          "company": "New Yorker Fashion",
+          "location": "Germany, Landshut",
+          "icon": "nyf",
+          "description": [
+            "Product presentation and sales",
+            "Customer support and service"
+          ]
+        },
+        {
+          "nr": 5,
+          "id": "witt",
+          "date": "2017-07 - 2018-09",
+          "title": "Internal Sales",
+          "company": "Wittmann Recycling GmbH",
+          "location": "Germany, Ergolding",
+          "icon": "wittmann",
+          "description": [
+            "Offer management",
+            "Management of customer inquiries",
+            "Consultant for problems with office-hardware"
+          ]
+        },
+        {
+          "nr": 6,
+          "id": "lral",
+          "date": "2013-10 - 2017-02",
+          "title": "Specialist in Asylum Seekers' Benefits Law",
+          "company": "County Office Landshut",
+          "location": "Germany, Landshut",
+          "icon": "lra",
+          "description": [
+            "Application of legal regulations",
+            "Health assistance"
+          ]
+        },
+        {
+          "nr": 7,
+          "id": "gugg",
+          "date": "2012-10 - 2013-06",
+          "title": "Secretary in building construction",
+          "company": "Guggenberger Bau GmbH",
+          "location": "Germany, Mintraching",
+          "icon": "guggenberger",
+          "description": [
+            "Correspondence with subcontractor and customers",
+            "Administration of construction plans",
+            "Creation of construction site files"
+          ]
+        },
+        {
+          "nr": 8,
+          "id": "bwz",
+          "date": "2011-09 - 2012-09",
+          "title": "Office Manager",
+          "company": "Education and Science Center of the Federal Finance Administration",
+          "location": "Germany, Munich",
+          "icon": "zoll",
+          "description": [
+            "Assistant to the management",
+            "Processing of vacation requests and absences",
+            "Monitoring time recording"
+          ]
+        }
+      ]
+    }
+  }
+}
