@@ -8,10 +8,13 @@
     "search": "Suche"
   },
   "about": {
-    "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war.Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Ich begann einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden, der auch einige Module in HTML5 und CSS3 enthielt. Ich war fasziniert von dem, was ich mit diesen Sprachen erschaffen konnte.Dann erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler mit Grundlagen in Python. Dies war mein Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für Webentwicklung.In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Derzeit bevorzuge ich React wegen seiner einfachen Syntax und der lebendigen Community."
+    "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war.Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Ich begann einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden, der auch einige Module in HTML5 und CSS3 enthielt. Ich war fasziniert von dem, was ich mit diesen Sprachen erschaffen konnte. Dann erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler mit Grundlagen in Python. Dies war mein Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für Webentwicklung.In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Derzeit bevorzuge ich React wegen seiner einfachen Syntax und der lebendigen Community."
   },
   "hero": {
-    "intro": "Ich bin Carina Arnold. Ich liebe es, moderne, funktionale Websites mit minimalistischem Design zu erstellen. {<a href=\"#contact\">Kontaktieren Sie mich jetzt</a>} und erzählen Sie mir von Ihrem Projekt."
+    "intro": {
+      "part1": "Hi, Ich heiße Carina Arnold. Ich liebe es, moderne, funktionale Websites mit minimalistischem Design zu erstellen.",
+      "part2": "und erzählen Sie mir von Ihrem Projekt."
+    }
   },
   "contact": {
     "name": {

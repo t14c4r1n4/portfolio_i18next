@@ -32,22 +32,20 @@ const Navbar = () => {
 
 
   return (
-    <div className="navbar flex bg-base-100 px-8">
+    <div className="navbar flex bg-bg px-8 mb-10 text-[#6d28d9]">
 
       {/* Navigation Items */}
-      <ul className="flex space-x-8 p-0">
+      <ul className="flex space-x-8 p-0 font-Orbitron tracking-widest">
         {navItems.map((page) => (
-          <li key={page.id} className=''>
+          <li key={page.id} className='w-xs'>
             <Link
               to={`${page.href}`}
-              className="flex hover:scale-110 transition-transform duration-300"
+              className="flex flex-col hover:scale-125 duration-700 hover:text-[#D97706] transition-colors"
             >
-              <span className="mr-2">
-                {React.cloneElement(page.icon, {
-                  className: "w-6 h-6"
-                })}
+              <span className="mx-auto mb-2">
+                {page.icon}
               </span>
-              <span>{page.name}</span>
+              <span className='text-xs'>{page.name}</span>
             </Link>
           </li>
         ))}

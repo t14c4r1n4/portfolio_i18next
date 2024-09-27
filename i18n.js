@@ -20,6 +20,8 @@ i18n
         interpolation: {
             escapeValue: false,
         },
+        transSupportBasicHtmlNodes: true,
+        transKeepBasicHtmlNodesFor: ["p", "span", "br", "i"],
         resources: {
             en: { translation: en },
             es: { translation: es },

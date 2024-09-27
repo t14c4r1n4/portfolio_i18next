@@ -1,8 +1,8 @@
-import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
-import HomeIcon from '@mui/icons-material/Home';
-import PermIdentityIcon from '@mui/icons-material/PermIdentity';
-import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
-import { TbTimeline } from "react-icons/tb";
+import { IoChatbubblesOutline } from "react-icons/io5";
+import { HiOutlineHome } from "react-icons/hi2";
+import { MdPermIdentity } from "react-icons/md";
+import { MdOutlineDeveloperMode } from "react-icons/md";
+import { IoBriefcaseOutline } from "react-icons/io5";
 
 import About from '../sections/about';
 import Home from '../sections/home';
@@ -25,7 +25,7 @@ const getNavItems = () => {
       alt: t('nav.home'),
       name: t('nav.home'),
       href: '/',
-      icon: <HomeIcon {...iconProps} />,
+      icon: <HiOutlineHome {...iconProps} />,
       section: <Home />,
       onClick: () => handleScrollTo('home')
     },
@@ -34,7 +34,7 @@ const getNavItems = () => {
       alt: t('nav.about'),
       name: t('nav.about'),
       href: '/about',
-      icon: <PermIdentityIcon {...iconProps} />,
+      icon: <MdPermIdentity {...iconProps} />,
       section: <About />,
       onClick: () => handleScrollTo('about')
     },
@@ -43,7 +43,7 @@ const getNavItems = () => {
       alt: t('nav.career'),
       name: t('nav.career'),
       href: '/career',
-      icon: <TbTimeline {...iconProps} />,
+      icon: <IoBriefcaseOutline {...iconProps} />,
       section: <Career />,
       onClick: () => handleScrollTo('career')
     },
@@ -52,7 +52,7 @@ const getNavItems = () => {
       alt: t('nav.services'),
       name: t('nav.services'),
       href: '/services',
-      icon: <DeveloperModeIcon {...iconProps} />,
+      icon: <MdOutlineDeveloperMode {...iconProps} />,
       section: <Services />,
       onClick: () => handleScrollTo('services')
     },
@@ -61,7 +61,7 @@ const getNavItems = () => {
       alt: t('nav.contact'),
       name: t('nav.contact'),
       href: '/contact',
-      icon: <QuestionAnswerIcon {...iconProps} />,
+      icon: <IoChatbubblesOutline {...iconProps} />,
       section: <Contact />,
       onClick: () => handleScrollTo('contact')
     }

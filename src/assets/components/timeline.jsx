@@ -12,14 +12,14 @@ const Timeline = ({ events, titleKey }) => {
                     {events.map((event) => (
                         <li className='rounded-box list-none max-w-screen-md py-4'>
                             <div className="timeline-middle p-3 rounded-full mr-4">
-                                <img src={`../src/assets/images/companies/${event.icon}.png`} alt={`${event.company} logo`} className="w-8 h-8" />
+                                <img src={`../src/assets/images/companies/${event.icon}.png`} alt={`${event.company} logo`} className="w-8 h-8 hover:scale-125" />
                             </div>
                             <div key={event.id} className={`${event.nr % 2 === 0 ? 'timeline-end' : 'timeline-start'} bg-zinc-800 p-4 rounded-lg`} >
                                 <div className="">
                                     <div className="">
-                                        <time className="text-gray-300">{event.date}</time>
+                                        <time className="text-gray-400 text-sm">{event.date}</time>
                                         <h3 className="text-lg font-semibold">{t(`${event.title}`)}</h3>
-                                        <p className="text-sm text-gray-600">{event.company} - {event.location}</p>
+                                        <p className="text-sm text-gray-400">{event.company} - {event.location}</p>
                                         <ul className="list-disc ml-6 mt-2">
                                             {event.description.map((desc, index) => (
                                                 <li key={index}>{t(`${desc}`)}</li>

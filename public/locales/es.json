@@ -3,15 +3,18 @@
     "about": "Sobre mi",
     "home": "Inicio",
     "services": "Servicios",
-    "career": "Trayectoria Profesional",
+    "career": "Trayectoria",
     "contact": "Contacto",
     "search": "Buscar"
   },
   "about": {
-    "intro": "En 2022, después de otro trabajo temporal, decidí que era hora de un cambio.Mientras viajaba, conocí a una chica que trabajaba como gerente de marketing en línea, y eso despertó mi interés. Comencé un curso por correspondencia para convertirme en gerente de marketing en línea certificado, que también incluía algunos módulos de HTML5 y CSS3. Me encontré fascinado por lo que podía crear con estos lenguajes.Luego, recibí una oferta para un curso como Desarrollador de Tiendas en Línea con fundamentos de Python. Esto marcó mi introducción a la programación, y descubrí una pasión por el desarrollo web.En mi tiempo libre, profundicé en Django, y más tarde, en JavaScript, React y Vue. Actualmente, prefiero React por su sintaxis simple y su vibrante comunidad."
+    "intro": "En 2022, después de otro trabajo temporal, decidí que era hora de un cambio. Mientras viajaba, conocí a una chica que trabajaba como gerente de marketing en línea, y eso despertó mi interés. Comencé un curso por correspondencia para convertirme en gerente de marketing en línea certificado, que también incluía algunos módulos de HTML5 y CSS3. Me encontré fascinado por lo que podía crear con estos lenguajes. Luego, recibí una oferta para un curso como Desarrollador de Tiendas en Línea con fundamentos de Python. Esto marcó mi introducción a la programación, y descubrí una pasión por el desarrollo web. En mi tiempo libre, profundicé en Django, y más tarde, en JavaScript, React y Vue. Actualmente, prefiero React por su sintaxis simple y su vibrante comunidad."
   },
   "hero": {
-    "intro": "Me llaman Carina Arnold. Me encanta crear sitios web modernos y funcionales con un diseño minimalista. <a href=\"#contact\">Contáctame ahora</a> y cuéntame sobre tu proyecto."
+    "intro": {
+      "part1": "Me llaman Carina Arnold. Me encanta crear sitios web modernos y funcionales con un diseño minimalista.",
+      "part2": "y cuéntame sobre tu proyecto."
+    }
   },
   "contact": {
     "name": {

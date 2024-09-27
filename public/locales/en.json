@@ -8,10 +8,13 @@
     "search": "Search"
   },
   "about": {
-    "intro": "<p>In 2022, after another temporary job, I decided that it was time for a change.</p><p>While traveling, I met a girl who worked as an online marketing manager, and it piqued my interest. I began a correspondence course to become a certified online marketing manager, which also included some HTML5 and CSS3 modules. I found myself fascinated by what I could create with these languages.</p><p>Then, I received an offer for a course as an Online Shop Developer with Python Basics. This marked my introduction to programming, and I discovered a passion for web development.</p><p>In my free time, I delved into Django, and later, JavaScript, React, and Vue. Currently, I favor React for its simple syntax and vibrant community.</p>"
+    "intro": "In 2022, after another temporary job, I decided that it was time for a change. While traveling, I met a girl who worked as an online marketing manager, and it piqued my interest. I began a correspondence course to become a certified online marketing manager, which also included some HTML5 and CSS3 modules. I found myself fascinated by what I could create with these languages. Then, I received an offer for a course as an Online Shop Developer with Python Basics. This marked my introduction to programming, and I discovered a passion for web development. In my free time, I delved into Django, and later, JavaScript, React, and Vue. Currently, I favor React for its simple syntax and vibrant community. "
   },
   "hero": {
-    "intro": "<p>They call me</p><h3>Carina Arnold</h3><p>I love to create modern, functional websites with minimalistic design.<a href=\"#contact\">Contact me now</a>and tell me about your project.</p>"
+    "intro": {
+      "part1": "They call me Carina Arnold. I love to create modern, functional websites with minimalistic design.",
+      "part2": "{{}}and tell me about your project. "
+    }
   },
   "contact": {
     "name": {
