@@ -9,7 +9,7 @@ const Career = () => {
     const edu = t('timeline.edu.events', { returnObjects: true });
 
     return (
-        <div className="container">
+        <div className="section-container">
             <Timeline events={edu} titleKey="timeline.education" />
             <Timeline events={work} titleKey="timeline.career" />
         </div>

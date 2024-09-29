@@ -5,11 +5,11 @@ const Timeline = ({ events, titleKey }) => {
     const { t } = useTranslation();
 
     return (
-        <>
-            <h2 className="text-center text-2xl font-bold my-4">{t(titleKey)}</h2>
-            <div className="container mx-auto flex flex-col items-center">
+        <div className=''>
+            <h2 className="text-center text-3xl my-4">{t(titleKey)}</h2>
+            <div className="flex flex-col items-center">
                 <ul className='timeline timeline-snap-icon max-md:timeline-compact timeline-vertical'>
-                    {events.map((event) => (
+                    {events.map((event, index) => (
                         <li className='rounded-box list-none max-w-screen-md py-4'>
                             <div className="timeline-middle p-3 rounded-full mr-4">
                                 <img src={`../src/assets/images/companies/${event.icon}.png`} alt={`${event.company} logo`} className="w-8 h-8 hover:scale-125" />
@@ -28,12 +28,12 @@ const Timeline = ({ events, titleKey }) => {
                                     </div>
                                 </div>
                             </div>
-                            <hr className='divider' />
+                            {index < events.length - 1 && <hr className='divider' />}
                         </li>
                     ))}
                 </ul>
             </div>
-        </>
+        </div>
     );
 };
 

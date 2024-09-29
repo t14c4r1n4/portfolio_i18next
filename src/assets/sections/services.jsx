@@ -2,7 +2,7 @@
 
 const Services = () => {
     return (
-        <div id="services" className="neucard container mx-auto">
+        <div id="services" className="section-container">
             <div>
                 <h2>Services</h2>
                 <p>

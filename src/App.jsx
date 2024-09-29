@@ -11,12 +11,12 @@ function App() {
   const isMobile = useMediaQuery('(max-width: 768px)');
 
   return (
-    <div className="bg-zinc-900 text-zinc-300 bg-norepeat">
-      <Navbar className="pb-12" />
+    <div className="bg-gradient-to-br from-neutral-900 to-neutral-800  min-h-screen">
+      <Navbar className="" />
       {isMobile ? (
         <Page />
       ) : (
-        <Outlet className="py-12" />
+        <Outlet />
       )}
       <Footer />
     </div>

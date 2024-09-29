@@ -9,7 +9,7 @@ module.exports = {
   daisyui: {
     themes: {
       mytheme: {
-        "primary": "#6d28d9",
+        "primary": "#a21caf",
         "secondary": "#8e6ca1",
         "accent": "#7e22ce",
         "neutral": "#44403c",

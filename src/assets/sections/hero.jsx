@@ -1,5 +1,7 @@
 const Hero = () => {
     <>
-        <a href={'\#contact\}'}>Contact me now</a>
+        <div className="section-container">
+            <a href={'\#contact\}'}>Contact me now</a>
+        </div>
     </>
 }

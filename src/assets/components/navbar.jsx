@@ -32,15 +32,15 @@ const Navbar = () => {
 
 
   return (
-    <div className="navbar flex bg-bg px-8 mb-10 text-[#6d28d9]">
+    <div className="navbar flex bg-bg px-8 mb-10 text-primary">
 
       {/* Navigation Items */}
-      <ul className="flex space-x-8 p-0 font-Orbitron tracking-widest">
+      <ul className="flex space-x-8 p-0 font-Orbitron tracking-widest ">
         {navItems.map((page) => (
           <li key={page.id} className='w-xs'>
             <Link
               to={`${page.href}`}
-              className="flex flex-col hover:scale-125 duration-700 hover:text-[#D97706] transition-colors"
+              className="flex flex-col hover:scale-125 duration-700 hover:text-secondary transition-colors"
             >
               <span className="mx-auto mb-2">
                 {page.icon}

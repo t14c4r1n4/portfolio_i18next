@@ -19,8 +19,8 @@ const About = () => {
     const { t } = useTranslation();
 
     return (
-        <div className="mx-auto container text-center text-md tracking-wide">
-            <h1>Hi, this is Carina.</h1>
+        <div className="section-container">
+            <h2>Hi, this is Carina.</h2>
             <img
                 src={me}
                 alt="Carina"

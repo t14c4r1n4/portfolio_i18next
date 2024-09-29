@@ -22,7 +22,7 @@ export const Contact = () => {
     };
 
     return (
-        <div className="grid gap-8 grid-cols-1 mb-10">
+        <div className="section-container grid gap-8 grid-cols-1">
             <div className="flex flex-col">
                 <form ref={form} onSubmit={sendEmail} className="space-y-2.5">
                     <div className="form-group">

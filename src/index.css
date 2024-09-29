@@ -27,7 +27,7 @@
   }
 }
 
-/* @layer base { 
+@layer base {
 
   h1,
   h2,
@@ -35,10 +35,9 @@
   h4,
   h5,
   h6 {
-    font-family: "Orbitron";
-    ;
+    font-family: 'Orbitron', sans-serif;
   }
-} */
+}
 
 @layer components {
   .clip-circle {
@@ -117,7 +116,6 @@
   nav ul li {
     margin: 0 10px;
     transition: 0.5s;
-    color: #6B21A8;
   }
 
   nav ul li a {
@@ -261,6 +259,12 @@
     /* Halbtransparentes Overlay */
     z-index: 999;
     /* Sicherstellen, dass das Overlay über allem liegt */
+  }
+
+  .section-container {
+    @apply glass;
+    padding: 10vh 5vw;
+    margin: 5vh 5vw;
   }
 
 }
