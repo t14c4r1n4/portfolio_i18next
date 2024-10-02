@@ -24,7 +24,7 @@ const About = () => {
             <img
                 src={me}
                 alt="Carina"
-                className="h-28 clip-circle neubox float-right m-2 hover:scale-125"
+                className="h-[5rem] clip-circle neubox float-right m-2 hover:scale-125"
             />
             <AccordionButton active={activeIndex === 0} onClick={handleClick} />
             {activeIndex === 0 && (

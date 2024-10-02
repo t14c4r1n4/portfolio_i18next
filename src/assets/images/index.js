@@ -8,7 +8,7 @@ import es from './languages/es.svg'
 // company icons
 
 import bwr from './companies/bwr.png'
-import guggenberger from './companies/guggenberger.jpg'
+import guggenberger from './companies/gugg.png'
 import lra from './companies/lra.png'
 import nyf from './companies/nyf.png'
 import wittmann from './companies/wittmann.png'

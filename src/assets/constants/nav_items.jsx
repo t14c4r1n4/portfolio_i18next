@@ -6,7 +6,7 @@ import { IoBriefcaseOutline } from "react-icons/io5";
 
 import About from '../sections/about';
 import Home from '../sections/home';
-import Career from '../sections/career';
+import Projects from '../sections/projects';
 import Services from '../sections/services';
 import Contact from '../sections/contact';
 
@@ -39,13 +39,13 @@ const getNavItems = () => {
       onClick: () => handleScrollTo('about')
     },
     {
-      id: 'career',
-      alt: t('nav.career'),
-      name: t('nav.career'),
-      href: '/career',
+      id: 'projects',
+      alt: t('nav.projects'),
+      name: t('nav.projects'),
+      href: '/projects',
       icon: <IoBriefcaseOutline {...iconProps} />,
-      section: <Career />,
-      onClick: () => handleScrollTo('career')
+      section: <Projects />,
+      onClick: () => handleScrollTo('projects')
     },
     {
       id: 'services',

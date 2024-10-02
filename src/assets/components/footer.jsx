@@ -27,7 +27,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="fixed bottom-0 w-full bg-zinc-900 p-4 z-3">
+    <footer className="fixed bottom-0 w-full bg-base-100 p-4 z-3">
       <div className="flex flex-cols justify-center divide-x divide-dotted divide-zinc-800 space-x-5 container">
 
         {/* Imprint Button with Tooltip */}

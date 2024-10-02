@@ -1,11 +1,18 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const Home = () => {
+    const { t } = useTranslation();
     return (
         <div id="home" className="section-container">
             <div>
-                <h2 className="text-3xl">Home</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates repellat in non saepe cumque. Ad labore odit, ratione, molestiae cum corrupti nostrum sapiente vitae ducimus non numquam laboriosam, quis optio!</p>
+                <h2>{t('nav.home')}</h2>
+                <p>{t('hero.greeting')}</p>
+                <p>{t('hero.part1')}</p>
+                <a href="./#contact" className="font-dosis">
+                    <button className="button-accent">{t('hero.cta')}</button>
+                </a>
+                <p>{t('hero.part2')}</p>
             </div>
 
         </div>

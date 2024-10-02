@@ -1,21 +1,21 @@
 import React from "react";
-import nav_items from "../constants/nav_items";
+import getNavItems from "../constants/nav_items";
 import ToTopButton from "../components/scrollToTop";
 
 
+
 const Page = () => {
+    const nav_items = getNavItems();
     return (
-        <div className="h-full pt-[10vh] mb-[6vh] container">
+        <div className="h-full md:pt-[10vh] md:mb-[6vh] container pt-20">
+
             {nav_items.map((page) => (
                 <div id={page.id}
                     key={page.id}
-                    className="relative h-full flex items-center justify-center"
+                    className="relative flex items-center justify-center"
                 >
-                    <div className="max-w-[90vw] md:max-w-[70vw] flex justify-center w-full space-y-8 p-10 mb-10 bg-zinc-800 glass rounded-2xl shadow-lg">
-                        <section className="max-w-[90vw] overflow-y: auto;">
-                            <h2 className="text-4xl text-center font-Orbitron mb-[3vh]">
-                                {page.name}
-                            </h2>
+                    <div className="max-w-[95vw] md:max-w-[70vw] flex justify-center w-full md:space-y-8 md:p-10 mb-[2vh] md:mb-10 shadow-lg">
+                        <section className="max-w-[90vw] overflow-y:auto;">
                             {page.section}
                             <hr className="inset-x-0 bottom-0 mt-5 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100" />
                         </section>

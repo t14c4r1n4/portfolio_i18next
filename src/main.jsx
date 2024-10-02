@@ -6,7 +6,7 @@ import About from './assets/sections/about.jsx';
 import Home from './assets/sections/home.jsx';
 import Contact from './assets/sections/contact.jsx';
 import Services from './assets/sections/services.jsx';
-import Career from './assets/sections/career.jsx';
+import Projects from './assets/sections/projects.jsx';
 import ErrorPage from './assets/sections/error.jsx'
 
 const router = createBrowserRouter([
@@ -32,8 +32,8 @@ const router = createBrowserRouter([
         element: <Contact />
       },
       {
-        path: "career",
-        element: <Career />
+        path: "projects",
+        element: <Projects />
       }
 
     ]

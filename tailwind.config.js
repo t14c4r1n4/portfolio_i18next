@@ -1,4 +1,3 @@
-const { keyframes } = require('@emotion/react');
 const { default: daisyui } = require('daisyui');
 
 
@@ -7,33 +6,36 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}",],
   plugins: [require('daisyui')],
   daisyui: {
-    themes: {
-      mytheme: {
-        "primary": "#a21caf",
-        "secondary": "#8e6ca1",
-        "accent": "#7e22ce",
-        "neutral": "#44403c",
-        "base-100": "#0C0A09",
-        "info": "#0093ff",
-        "success": "#92f247",
-        "warning": "#ff9c00",
-        "error": "#ec0047",
-        "bg": "#0C0A09"
+    themes: [
+      {
+        mytheme: {
+          "primary": "9d4edd",
+          "secondary": "#FF8500",
+          "accent": "63D011",
+          "neutral": "#44403c",
+          "base-100": "#0C0A09",
+          "base-200": "#171717",
+          "info": "#0093ff",
+          "success": "#92f247",
+          "warning": "#ff9c00",
+          "error": "#ec0047",
+          "bg": "#0C0A09"
+        }
+      }
+    ],
+    theme: {
+      container: {
+        center: true
       },
-    }
-  },
-  theme: {
-    container: {
-      center: true
-    },
-    listStyleType: {
-      none: 'none',
-      disc: 'disc'
-    },
-    fontFamily: {
-      Orbitron: ['"Orbitron"', "sans-serif"],
-      Dosis: ['"Dosis"', "sans-serif"],
-      Vegan: ['"Vegang"', "sans-serif"]
+      listStyleType: {
+        none: 'none',
+        disc: 'disc'
+      },
+      fontFamily: {
+        Orbitron: ['"Orbitron"', "sans-serif"],
+        Dosis: ['"Dosis"', "sans-serif"],
+        Vegan: ['"Vegan"', "sans-serif"]
+      }
     }
   }
 }

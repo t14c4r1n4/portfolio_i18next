@@ -17,9 +17,9 @@ const Timeline = ({ events, titleKey }) => {
                             <div key={event.id} className={`${event.nr % 2 === 0 ? 'timeline-end' : 'timeline-start'} bg-zinc-800 p-4 rounded-lg`} >
                                 <div className="">
                                     <div className="">
-                                        <time className="text-gray-400 text-sm">{event.date}</time>
+                                        <time className="text-sm text-secondary">{event.date}</time>
                                         <h3 className="text-lg font-semibold">{t(`${event.title}`)}</h3>
-                                        <p className="text-sm text-gray-400">{event.company} - {event.location}</p>
+                                        <p className="text-sm text-secondary opacity-50">{event.company} - {event.location}</p>
                                         <ul className="list-disc ml-6 mt-2">
                                             {event.description.map((desc, index) => (
                                                 <li key={index}>{t(`${desc}`)}</li>

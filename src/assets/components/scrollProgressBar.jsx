@@ -1,30 +1,24 @@
-// ScrollProgressBar.js
 import React, { useState, useEffect } from 'react';
-import LinearProgress from '@mui/material/LinearProgress';
-import Box from '@mui/material/Box';
 
-const ScrollProgressBar = () => {
-    const [progress, setProgress] = useState(0);
+const ScrollProgress = () => {
+    const [scrollPosition, setScrollPosition] = useState(0);
 
-    const calculateScrollProgress = () => {
+    const handleScroll = () => {
         const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
-        const scrollTotal = scrollHeight - clientHeight;
-        const scrollPosition = (scrollTop / scrollTotal) * 100;
-        setProgress(scrollPosition);
+        const scrolled = (scrollTop / (scrollHeight - clientHeight)) * 100;
+        setScrollPosition(scrolled);
     };
 
     useEffect(() => {
-        window.addEventListener('scroll', calculateScrollProgress);
-        return () => {
-            window.removeEventListener('scroll', calculateScrollProgress);
-        };
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll); // Cleanup listener on component unmount
     }, []);
 
     return (
-        <Box sx={{ width: '100%', position: 'fixed', top: 0, left: 0 }}>
-            <LinearProgress variant="determinate" value={progress} />
-        </Box>
+        <div>
+            <progress className="progress progress-primary w-full fixed top-[4rem] z-50" value={scrollPosition} max="100" />
+        </div>
     );
 };
 
-export default ScrollProgressBar;
+export default ScrollProgress;
