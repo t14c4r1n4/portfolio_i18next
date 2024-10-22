@@ -15,7 +15,7 @@ const lngs = {
 const Navbar = () => {
   const { t } = useTranslation();
   const navItems = getNavItems();
-  const isMobile = useMediaQuery('(max-width: 768px)'); // Check for mobile view
+  const isMobile = useMediaQuery('(max-width: 801px)'); // Check for mobile view
 
   // State to control the dropdown visibility
   const [isDropdownOpen, setDropdownOpen] = useState(false);
@@ -42,9 +42,9 @@ const Navbar = () => {
   };
 
   return (
-    <div className="navbar md:px-[2vw] md:mb-[2vh] w-full fixed text-primary z-50 bg-base-200">
+    <div className="navbar lg:px-[2vw] lg:mb-[2vh] w-full left-0 top-0 fixed text-primary z-50 bg-base-200">
       {/* Start of Navbar */}
-      <div className="navbar-start">
+      <div className="navbar-start ml-6 lg:ml-0">
         {/* Mobile Dropdown Menu */}
         {isMobile && (
           <div className="dropdown">
@@ -70,7 +70,7 @@ const Navbar = () => {
             {isDropdownOpen && (
               <ul
                 tabIndex={0}
-                className="menu menu-sm dropdown-content bg-base-100 rounded-box mt-3 w-52 p-2 shadow z-10">
+                className="menu menu-sm dropdown-content bg-base-100 rounded-box mt-3 p-2 shadow z-10">
                 {navItems.map((page) => (
                   <li key={page.id} className='w-xs'>
                     <Link

@@ -7,7 +7,7 @@
   src: url("./assets/fonts/Orbitron-VariableFont_wght.ttf");
 }
 
-@font-face {
+/* @font-face {
   font-family: "Dosis";
   src: url("./assets/fonts/Dosis-VariableFont_wght.ttf");
 }
@@ -15,7 +15,7 @@
 @font-face {
   font-family: "Vegan";
   src: url("./assets/fonts/VeganStylePersonalUse-5Y58.ttf");
-}
+} */
 
 @keyframes progress {
   from {
@@ -162,9 +162,18 @@
     @apply glass;
     border-radius: 25px;
     padding: 5vh 5vw;
-    margin-bottom: 5vh;
-    min-height: 82vh;
+    margin: 1rem auto;
     width: 90vw;
+    overflow-y: auto;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .section-container {
+      min-height: 90vh;
+      margin: 8vh auto;
+      overflow-y: none;
+
+    }
   }
 
 }
