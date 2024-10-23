@@ -164,14 +164,14 @@
     padding: 5vh 5vw;
     margin: 1rem auto;
     width: 90vw;
-    overflow-y: auto;
   }
 
   @media only screen and (min-width: 768px) {
     .section-container {
-      min-height: 90vh;
-      margin: 8vh auto;
-      overflow-y: none;
+      min-height: 83vh;
+      margin-top: 2vh;
+      margin-left: auto;
+      margin-right: auto;
 
     }
   }

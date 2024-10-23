@@ -8,7 +8,7 @@ const Projects = () => {
             <h2>{t('nav.projects')}</h2>
             <div className="space-y-2">
                 {projectList.map((project, index) => (
-                    <div index={index} id={project.id} className="card bg-base-200 shadow-xl">
+                    <div key={index} id={project.id} className="card bg-base-200 shadow-xl">
                         <figure className="px-10 pt-10">
                             <img src={project.preview} alt={project.name} className="rounded-xl" />
                         </figure>
@@ -20,15 +20,15 @@ const Projects = () => {
                                 description?
                             </div>
                             {project.tasks.map((task, index) => (
-                                <ul className="list-disc">
-                                    <li index={index} className="">
+                                <ul key={index} className="list-disc">
+                                    <li className="">
                                         {task}
                                     </li>
                                 </ul>
                             ))}
                             <div className="flex flex-wrap flex-auto">
                                 {project.tags.map((tag, index) => (
-                                    <div className="badge badge-accent m-1" index={index}>
+                                    <div key={index} className="badge badge-accent m-1">
                                         {tag}
                                     </div>
                                 ))}
