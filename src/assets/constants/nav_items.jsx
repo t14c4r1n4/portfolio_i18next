@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/rules-of-hooks */
+import { useTranslation } from "react-i18next";
 import { IoChatbubblesOutline } from "react-icons/io5";
 import { HiOutlineHome } from "react-icons/hi2";
 import { MdPermIdentity } from "react-icons/md";
@@ -10,11 +12,12 @@ import Projects from '../sections/projects';
 import Services from '../sections/services';
 import Contact from '../sections/contact';
 
-import { useTranslation } from "react-i18next";
+
 
 const iconProps = {
   className: "size-8"
 };
+
 
 const getNavItems = () => {
   const { t } = useTranslation();
@@ -26,8 +29,7 @@ const getNavItems = () => {
       name: t('nav.home'),
       href: '/',
       icon: <HiOutlineHome {...iconProps} />,
-      section: <Home />,
-      onClick: () => handleScrollTo('home')
+      section: <Home />
     },
     {
       id: 'about',
@@ -36,7 +38,6 @@ const getNavItems = () => {
       href: '/about',
       icon: <MdPermIdentity {...iconProps} />,
       section: <About />,
-      onClick: () => handleScrollTo('about')
     },
     {
       id: 'projects',
@@ -45,7 +46,6 @@ const getNavItems = () => {
       href: '/projects',
       icon: <IoBriefcaseOutline {...iconProps} />,
       section: <Projects />,
-      onClick: () => handleScrollTo('projects')
     },
     {
       id: 'services',
@@ -54,7 +54,6 @@ const getNavItems = () => {
       href: '/services',
       icon: <MdOutlineDeveloperMode {...iconProps} />,
       section: <Services />,
-      onClick: () => handleScrollTo('services')
     },
     {
       id: 'contact',
@@ -63,7 +62,6 @@ const getNavItems = () => {
       href: '/contact',
       icon: <IoChatbubblesOutline {...iconProps} />,
       section: <Contact />,
-      onClick: () => handleScrollTo('contact')
     }
   ];
 };

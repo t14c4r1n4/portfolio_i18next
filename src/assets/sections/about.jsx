@@ -1,39 +1,26 @@
-import React, { useState } from "react";
-import me from "../images/me_circle.png";
-import { FaChevronDown, FaChevronUp } from "react-icons/fa";
+/* eslint-disable react/prop-types */
 import { useTranslation } from "react-i18next";
+import me from "../images/me_circle.png";
 
-const AccordionButton = ({ active, onClick }) => (
-    <button type="button" className="mx-auto text-purple-500 flex flex-row" onClick={onClick}>
-        {!active && "Read more ..."}
-        {active ? <FaChevronUp className="w-6 h-6" /> : <FaChevronDown className="w-6 h-6" />}
-    </button>
-);
 
 const About = () => {
-    const [activeIndex, setActiveIndex] = useState(null);
-
-    const handleClick = () => {
-        setActiveIndex(activeIndex === 0 ? null : 0);
-    };
     const { t } = useTranslation();
 
     return (
-        <div className="section-container">
-            <h2>Hi, this is Carina.</h2>
+        <div className="md:text-md lg:text-lg section-container">
+            <h2>{t('nav.about')}</h2>
             <img
                 src={me}
                 alt="Carina"
-                className="h-[5rem] clip-circle neubox float-right m-2 hover:scale-125"
+                className="float-right m-2 h-[5rem] hover:scale-125"
             />
-            <AccordionButton active={activeIndex === 0} onClick={handleClick} />
-            {activeIndex === 0 && (
-                <div className="">
-                    {t('about.intro')}
-                </div>
-            )}
+            <div>
+                <p className="text">{t('about.intro')}</p>
+                <p className="text">{t('about.course')}</p>
+                <p className="text">{t('about.learning')}</p>
+                <p className="text">{t('about.current')}</p>
+            </div>
         </div>
-
     );
 };
 

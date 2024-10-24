@@ -1,203 +1,315 @@
 {
-  "nav": {
-    "about": "Sobre mi",
-    "home": "Inicio",
-    "services": "Servicios",
-    "projects": "Projectos",
-    "contact": "Contacto",
-    "search": "Buscar"
-  },
-  "about": {
-    "intro": "En 2022, después de otro trabajo temporal, decidí que era hora de un cambio. Mientras viajaba, conocí a una chica que trabajaba como gerente de marketing en línea, y eso despertó mi interés. Comencé un curso por correspondencia para convertirme en gerente de marketing en línea certificado, que también incluía algunos módulos de HTML5 y CSS3. Me encontré fascinado por lo que podía crear con estos lenguajes. Luego, recibí una oferta para un curso como Desarrollador de Tiendas en Línea con fundamentos de Python. Esto marcó mi introducción a la programación, y descubrí una pasión por el desarrollo web. En mi tiempo libre, profundicé en Django, y más tarde, en JavaScript, React y Vue. Actualmente, prefiero React por su sintaxis simple y su vibrante comunidad."
-  },
-  "hero": {
-    "greeting": "Me llaman Carina Arnold.",
-    "part1": "Me encanta crear sitios web modernos y funcionales con un diseño minimalista.",
-    "cta": "Contáctame ahora",
-    "part2": "y cuéntame sobre tu proyecto."
-  },
-  "contact": {
-    "name": {
-      "label": "Nombre",
-      "placeholder": "Nombre",
-      "message": "Cómo te llamas?"
+    "nav": {
+        "menu": "Menú",
+        "about": "Sobre mi",
+        "home": "Inicio",
+        "services": "Servicios",
+        "projects": "Projectos",
+        "contact": "Contacto",
+        "search": "Buscar"
     },
-    "email": {
-      "label": "Correo electronico",
-      "placeholder": "correo electronico",
-      "message": "Tu correo electronico"
+    "about": {
+        "intro": "En 2022, después de otro trabajo temporal, decidí que era hora de un cambio. Durante un viaje, conocí a una chica que trabajaba como gerente de marketing en línea, lo que despertó mi interés. Luego comencé un curso a distancia para convertirme en gerente de marketing en línea certificado. El curso también incluía algunos módulos en HTML5 y CSS3, y me fascinó lo que podía crear con estos lenguajes.",
+        "course": "Poco después, recibí una oferta para un curso como desarrollador de tiendas en línea, que también cubría los fundamentos de Python. Esto marcó mi entrada en la programación, y descubrí una pasión por el desarrollo web.",
+        "learning": "En mi tiempo libre, profundicé en Django y luego en JavaScript, React y Vue. Disfruté especialmente de React por su sintaxis sencilla y su comunidad vibrante.",
+        "current": "Actualmente, me estoy enfocando en Angular para expandir mi conocimiento y mejorar mis habilidades en el desarrollo web moderno."
     },
-    "message": {
-      "label": "Mensaje",
-      "placeholder": "Mensaje",
-      "message": "Tu mensaje"
+    "hero": {
+        "intro": "Desarrolladora web, diseñadora web, gerente de marketing en línea",
+        "trans": "Tambien me llaman Carina Arnold.",
+        "part1": "Mi pasión es crear sitios web modernos y funcionales con un diseño minimalista.",
+        "cta": "Contáctame ahora",
+        "part2": "y cuéntame sobre tu proyecto."
     },
-    "submit": "Enviar"
-  },
-  "timeline": {
-    "education": "Educación Profesional",
-    "career": "Trayectoria Profesional",
-    "edu": {
-      "events": [
-        {
-          "nr": 1,
-          "id": "wbs",
-          "date": "2022-10 - 2023-01",
-          "title": "Formación Profesional en Desarrollo Web/ E-commerce con fundamentos de Python",
-          "company": "WBS Training AG",
-          "location": "Alemania, Ratisbona",
-          "icon": "wbs",
-          "description": [
-            "Marketing Digital con HTML5 y E-Commerce",
-            "Proyecto con Shopware",
-            "Python: Fundamentos",
-            "Python: Funciones y módulos"
-          ]
+    "contact": {
+        "name": {
+            "label": "Nombre",
+            "placeholder": "Nombre",
+            "message": "Cómo te llamas?"
         },
-        {
-          "nr": 2,
-          "id": "klett",
-          "date": "2021-06 - 2022-09",
-          "title": "Gerente de Marketing Online Certificado",
-          "company": "Fernakademie für Erwachsenenbildung GmbH",
-          "location": "Remoto",
-          "icon": "klett",
-          "description": [
-            "Desarrollo y diseño web",
-            "Marketing online",
-            "Marketing en motores de búsqueda: SEO y SEA",
-            "Análisis web",
-            "Monitoreo y marketing en redes sociales",
-            "E-Commerce y tiendas en línea",
-            "Publicidad en banners, marketing por correo electrónico",
-            "Aspectos legales"
-          ]
+        "email": {
+            "label": "Correo electronico",
+            "placeholder": "correo electronico",
+            "message": "Tu correo electronico"
         },
-        {
-          "nr": 3,
-          "id": "hza",
-          "date": "2008-09 - 2011-07",
-          "title": "Formación profesional dual como empleado especializado en comunicación de oficina",
-          "company": "Oficina principal de aduanas de Ratisbona",
-          "location": "Alemania, Ratisbona",
-          "icon": "zoll",
-          "description": ["Tareas administrativas", "Asistente de departamento"]
+        "message": {
+            "label": "Mensaje",
+            "placeholder": "Mensaje",
+            "message": "Tu mensaje"
+        },
+        "submit": "Enviar"
+    },
+    "timeline": {
+        "education": "Educación Profesional",
+        "career": "Trayectoria Profesional",
+        "edu": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "wbs",
+                    "date": "2022-10 - 2023-01",
+                    "title": "Formación Profesional en Desarrollo Web/ E-commerce con fundamentos de Python",
+                    "company": "WBS Training AG",
+                    "location": "Alemania, Ratisbona",
+                    "icon": "wbs",
+                    "description": [
+                        "Marketing Digital con HTML5 y E-Commerce",
+                        "Proyecto con Shopware",
+                        "Python: Fundamentos",
+                        "Python: Funciones y módulos"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "klett",
+                    "date": "2021-06 - 2022-09",
+                    "title": "Gerente de Marketing Online Certificado",
+                    "company": "Fernakademie für Erwachsenenbildung GmbH",
+                    "location": "Remoto",
+                    "icon": "klett",
+                    "description": [
+                        "Desarrollo y diseño web",
+                        "Marketing online",
+                        "Marketing en motores de búsqueda: SEO y SEA",
+                        "Análisis web",
+                        "Monitoreo y marketing en redes sociales",
+                        "E-Commerce y tiendas en línea",
+                        "Publicidad en banners, marketing por correo electrónico",
+                        "Aspectos legales"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "hza",
+                    "date": "2008-09 - 2011-07",
+                    "title": "Formación profesional dual como empleado especializado en comunicación de oficina",
+                    "company": "Oficina principal de aduanas de Ratisbona",
+                    "location": "Alemania, Ratisbona",
+                    "icon": "zoll",
+                    "description": [
+                        "Tareas administrativas",
+                        "Asistente de departamento"
+                    ]
+                }
+            ]
+        },
+        "work": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "db",
+                    "date": "2023-10 - 2024-10",
+                    "title": "Empleado de Gestión de Suscripciones y Colaborador del Equipo de UX en el Portal de Clientes",
+                    "company": "Deutsche Bahn AG",
+                    "location": "Alemania, Ratisbona",
+                    "icon": "db",
+                    "description": [
+                        "Gestión de suscripciones",
+                        "Instrucción a los usuarios finales sobre nuestras aplicaciones",
+                        "Colaboración y asesoramiento en marketing digital y UX"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "bwr",
+                    "date": "2022-09 - 2024-10",
+                    "title": "Atención al cliente y soporte",
+                    "company": "Boulderwelt GmbH",
+                    "location": "Alemania, Ratisbona",
+                    "icon": "bwr",
+                    "description": [
+                        "Servicio de consultoría",
+                        "Instrucción para nuevos clientes",
+                        "Cuidado de plantas"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "wuerth",
+                    "date": "2019-04 - 2021-06",
+                    "title": "Gerente de Sucursal",
+                    "company": "Adolf Würth GmbH & Co. KG",
+                    "location": "Alemania, Landshut",
+                    "icon": "wuerth",
+                    "description": [
+                        "Presentación y venta de productos",
+                        "Campañas de marketing regional",
+                        "Soporte y servicio al cliente"
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "id": "nyf",
+                    "date": "2018-10 - 2019-03",
+                    "title": "Asistente de ventas",
+                    "company": "New Yorker Fashion",
+                    "location": "Alemania, Landshut",
+                    "icon": "nyf",
+                    "description": [
+                        "Presentación y venta de productos",
+                        "Soporte y servicio al cliente"
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "id": "witt",
+                    "date": "2017-07 - 2018-09",
+                    "title": "Ventas internas",
+                    "company": "Wittmann Recycling GmbH",
+                    "location": "Alemania, Ergolding",
+                    "icon": "wittmann",
+                    "description": [
+                        "Gestión de ofertas",
+                        "Gestión de consultas de clientes",
+                        "Asesoramiento sobre problemas de hardware y software de oficina"
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "id": "lral",
+                    "date": "2013-10 - 2017-02",
+                    "title": "Especialista en Derecho de Beneficios para Solicitantes de Asilo",
+                    "company": "Oficina del Condado de Landshut",
+                    "location": "Alemania, Landshut",
+                    "icon": "lra",
+                    "description": [
+                        "Aplicación de regulaciones legales",
+                        "Asistencia sanitaria"
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "id": "gugg",
+                    "date": "2012-10 - 2013-06",
+                    "title": "Secretaria en construcción",
+                    "company": "Guggenberger Bau GmbH",
+                    "location": "Alemania, Mintraching",
+                    "icon": "guggenberger",
+                    "description": [
+                        "Correspondencia con subcontratistas y clientes",
+                        "Administración de planos de construcción",
+                        "Creación de archivos de obras"
+                    ]
+                },
+                {
+                    "nr": 8,
+                    "id": "bwz",
+                    "date": "2011-09 - 2012-09",
+                    "title": "Asistente de la gerencia",
+                    "company": "Centro de Educación y Ciencia de la Administración Financiera Federal",
+                    "location": "Alemania, Múnich",
+                    "icon": "zoll",
+                    "description": [
+                        "Asistente de la gerencia",
+                        "Procesamiento de solicitudes de vacaciones y ausencias",
+                        "Monitoreo de registro de tiempo"
+                    ]
+                }
+            ]
         }
-      ]
     },
-    "work": {
-      "events": [
+    "projects": [
         {
-          "nr": 1,
-          "id": "db",
-          "date": "2023-10 - ahora",
-          "title": "Empleado de Gestión de Suscripciones y Colaborador del Equipo de UX en el Portal de Clientes",
-          "company": "Deutsche Bahn AG",
-          "location": "Alemania, Ratisbona",
-          "icon": "db",
-          "description": [
-            "Gestión de suscripciones",
-            "Instrucción a los usuarios finales sobre nuestras aplicaciones",
-            "Colaboración y asesoramiento en marketing digital y UX"
-          ]
+            "id": "portfolio_v2",
+            "name": "Sitio web de portafolio v2",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Desarrollo web", "Diseño web", "Alojamiento"],
+            "preview": "",
+            "tags": ["react", "tailwindcss", "emailjs", "vite", "i18next"]
         },
         {
-          "nr": 2,
-          "id": "bwr",
-          "date": "2022-09 - ahora",
-          "title": "Atención al cliente y soporte",
-          "company": "Boulderwelt GmbH",
-          "location": "Alemania, Ratisbona",
-          "icon": "bwr",
-          "description": [
-            "Servicio de consultoría",
-            "Instrucción para nuevos clientes",
-            "Cuidado de plantas"
-          ]
+            "id": "portfolio_v1",
+            "name": "Sitio web de portafolio v1",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Desarrollo web", "Diseño web", "Alojamiento"],
+            "preview": "screenshot_portfolio_v1",
+            "tags": ["react", "tailwindcss", "emailjs", "vite"]
         },
         {
-          "nr": 3,
-          "id": "wuerth",
-          "date": "2019-04 - 2021-06",
-          "title": "Gerente de Sucursal",
-          "company": "Adolf Würth GmbH & Co. KG",
-          "location": "Alemania, Landshut",
-          "icon": "wuerth",
-          "description": [
-            "Presentación y venta de productos",
-            "Campañas de marketing regional",
-            "Soporte y servicio al cliente"
-          ]
+            "id": "fv",
+            "name": "Fischereiverein Pfakofen-Rogging e.V.",
+            "link": "https://fischereiverein-pfakofen-rogging.de",
+            "tasks": [
+                "Rediseño",
+                "Configuración de alojamiento",
+                "Copias de seguridad",
+                "Administrador web"
+            ],
+            "preview": "",
+            "tags": ["wordpress", "tema"]
         },
         {
-          "nr": 4,
-          "id": "nyf",
-          "date": "2018-10 - 2019-03",
-          "title": "Asistente de ventas",
-          "company": "New Yorker Fashion",
-          "location": "Alemania, Landshut",
-          "icon": "nyf",
-          "description": [
-            "Presentación y venta de productos",
-            "Soporte y servicio al cliente"
-          ]
-        },
-        {
-          "nr": 5,
-          "id": "witt",
-          "date": "2017-07 - 2018-09",
-          "title": "Ventas internas",
-          "company": "Wittmann Recycling GmbH",
-          "location": "Alemania, Ergolding",
-          "icon": "wittmann",
-          "description": [
-            "Gestión de ofertas",
-            "Gestión de consultas de clientes",
-            "Asesoramiento sobre problemas de hardware de oficina"
-          ]
-        },
-        {
-          "nr": 6,
-          "id": "lral",
-          "date": "2013-10 - 2017-02",
-          "title": "Especialista en Derecho de Beneficios para Solicitantes de Asilo",
-          "company": "Oficina del Condado de Landshut",
-          "location": "Alemania, Landshut",
-          "icon": "lra",
-          "description": [
-            "Aplicación de regulaciones legales",
-            "Asistencia sanitaria"
-          ]
-        },
-        {
-          "nr": 7,
-          "id": "gugg",
-          "date": "2012-10 - 2013-06",
-          "title": "Secretaria en construcción",
-          "company": "Guggenberger Bau GmbH",
-          "location": "Alemania, Mintraching",
-          "icon": "guggenberger",
-          "description": [
-            "Correspondencia con subcontratistas y clientes",
-            "Administración de planos de construcción",
-            "Creación de archivos de obras"
-          ]
-        },
-        {
-          "nr": 8,
-          "id": "bwz",
-          "date": "2011-09 - 2012-09",
-          "title": "Asistente de la gerencia",
-          "company": "Centro de Educación y Ciencia de la Administración Financiera Federal",
-          "location": "Alemania, Múnich",
-          "icon": "zoll",
-          "description": [
-            "Asistente de la gerencia",
-            "Procesamiento de solicitudes de vacaciones y ausencias",
-            "Monitoreo de registro de tiempo"
-          ]
+            "id": "mcmct",
+            "name": "Calculadora Multifuncional",
+            "link": "https://github.com/t14c4r1n4/Python3_multifunctional_calculator",
+            "tasks": ["Liderazgo de equipo", "Gestor de módulos"],
+            "preview": "",
+            "tags": ["python"]
         }
-      ]
-    }
-  }
+    ],
+    "services": [
+        {
+            "id": "website_development",
+            "name": "Desarrollo de Sitios Web",
+            "tasks": [
+                "Creación y personalización de sitios web responsivos",
+                "Desarrollo de temas personalizados",
+                "Optimización para motores de búsqueda (SEO)"
+            ]
+        },
+        {
+            "id": "ecommerce_platforms",
+            "name": "Plataformas de Comercio Electrónico",
+            "tasks": [
+                "Configuración y personalización de tiendas en línea (por ejemplo, Shopware)",
+                "Integración de soluciones de pago y envío",
+                "Asesoría para elegir la plataforma de comercio electrónico adecuada"
+            ]
+        },
+        {
+            "id": "seo_services",
+            "name": "Servicios de SEO",
+            "tasks": [
+                "Investigación de palabras clave y optimización en la página",
+                "Creación de enlaces y estrategias fuera de la página",
+                "Análisis del tráfico del sitio web"
+            ]
+        },
+        {
+            "id": "social_media_marketing",
+            "name": "Marketing en Redes Sociales",
+            "tasks": [
+                "Creación y gestión de campañas en redes sociales",
+                "Planificación y creación de contenido para redes sociales",
+                "Gestión de la comunidad"
+            ]
+        },
+        {
+            "id": "email_marketing",
+            "name": "Email Marketing",
+            "tasks": [
+                "Creación y gestión de campañas de correo electrónico",
+                "Segmentación y personalización de audiencias",
+                "Automatización de flujos de trabajo de correo electrónico"
+            ]
+        },
+        {
+            "id": "content_marketing",
+            "name": "Marketing de Contenidos",
+            "tasks": [
+                "Creación de publicaciones de blog, artículos y otros contenidos",
+                "Planificación estratégica de campañas de contenido",
+                "Optimización de contenido para SEO"
+            ]
+        },
+        {
+            "id": "conversion_rate_optimization",
+            "name": "Optimización de la Tasa de Conversión (CRO)",
+            "tasks": [
+                "Pruebas A/B para mejorar la experiencia del usuario",
+                "Análisis de comentarios de los clientes",
+                "Optimización de las páginas de productos"
+            ]
+        }
+    ]
 }

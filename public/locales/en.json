@@ -1,203 +1,310 @@
 {
-  "nav": {
-    "about": "About",
-    "home": "Home",
-    "services": "Services",
-    "projects": "Projects",
-    "contact": "Contact",
-    "search": "Search"
-  },
-  "about": {
-    "intro": "In 2022, after another temporary job, I decided that it was time for a change. While traveling, I met a girl who worked as an online marketing manager, and it piqued my interest. I began a correspondence course to become a certified online marketing manager, which also included some HTML5 and CSS3 modules. I found myself fascinated by what I could create with these languages. Then, I received an offer for a course as an Online Shop Developer with Python Basics. This marked my introduction to programming, and I discovered a passion for web development. In my free time, I delved into Django, and later, JavaScript, React, and Vue. Currently, I favor React for its simple syntax and vibrant community. "
-  },
-  "hero": {
-    "greeting": "They call me Carina Arnold.",
-    "part1": "I love to create modern, functional websites with minimalistic design.",
-    "cta": "Contact me now",
-    "part2": "and tell me about your project. "
-  },
-  "contact": {
-    "name": {
-      "label": "Name",
-      "placeholder": "Name",
-      "message": "Tell me your name"
+    "nav": {
+        "menu": "Menu",
+        "about": "About",
+        "home": "Home",
+        "services": "Services",
+        "projects": "Projects",
+        "contact": "Contact",
+        "search": "Search"
     },
-    "email": {
-      "label": "E-Mail",
-      "placeholder": "E-Mail",
-      "message": "Enter your E-Mail-Adress"
+    "about": {
+        "intro": "In 2022, after another temporary job, I decided it was time for a change. While traveling, I met a girl who worked as an online marketing manager, which sparked my interest. I then started a distance learning course to become a certified online marketing manager. The course also included some modules in HTML5 and CSS3, and I was fascinated by what I could create with these languages.",
+        "course": "Shortly thereafter, I received an offer for a course as an online shop developer, which also covered the basics of Python. This marked my entry into programming, and I discovered a passion for web development.",
+        "learning": "In my spare time, I delved into Django and later into JavaScript, React, and Vue. I particularly enjoyed React due to its simple syntax and vibrant community.",
+        "current": "Currently, I am focusing on Angular to expand my knowledge and enhance my skills in modern web development."
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message",
-      "message": "Your Message"
+    "hero": {
+        "intro": "Webdeveloper, Webdesigner, Online-Marketing-Manager",
+        "trans": "They also call me Carina Arnold.",
+        "part1": "My passion is to create modern, functional websites with minimalistic design.",
+        "cta": "Contact me now",
+        "part2": "and tell me about your project. "
     },
-    "submit": "Submit"
-  },
-  "timeline": {
-    "education": "Professional Education",
-    "career": "Career",
-    "edu": {
-      "events": [
-        {
-          "nr": 1,
-          "id": "wbs",
-          "date": "2022-10 - 2023-01",
-          "title": "Professional Training in Web Development/ E-commerce with Python basics",
-          "company": "WBS Training AG",
-          "location": "Germany, Regensburg",
-          "icon": "wbs",
-          "description": [
-            "Digital Marketing with HTML5 and E-Commerce",
-            "Project with Shopware",
-            "Python: Fundamentals",
-            "Python: Functions and modules"
-          ]
+    "contact": {
+        "name": {
+            "label": "Name",
+            "placeholder": "Name",
+            "message": "Tell me your name"
         },
-        {
-          "nr": 2,
-          "id": "klett",
-          "date": "2021-06 - 2022-09",
-          "title": "Certified Online-Marketing-Manager",
-          "company": "Fernakademie für Erwachsenenbildung GmbH",
-          "location": "remote",
-          "icon": "klett",
-          "description": [
-            "Webdevelopment and Webdesign",
-            "Online-Marketing",
-            "Search Engine Marketing: SEO and SEA",
-            "Webanalytics",
-            "Social-Media Monitoring and Marketing",
-            "E-Commerce and Onlineshops",
-            "Banner advertising, E-Mail-Marketing",
-            "Legal aspects"
-          ]
+        "email": {
+            "label": "E-Mail",
+            "placeholder": "E-Mail",
+            "message": "Enter your E-Mail-Adress"
         },
-        {
-          "nr": 3,
-          "id": "hza",
-          "date": "2008-09 - 2011-07",
-          "title": "Dual vocational training as specialized employee in office communication",
-          "company": "Main customs office Regensburg",
-          "location": "Germany, Regensburg",
-          "icon": "zoll",
-          "description": ["Administrative tasks", "Department assistant"]
+        "message": {
+            "label": "Message",
+            "placeholder": "Message",
+            "message": "Your Message"
+        },
+        "submit": "Submit"
+    },
+    "timeline": {
+        "education": "Professional Education",
+        "career": "Career",
+        "edu": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "wbs",
+                    "date": "2022-10 - 2023-01",
+                    "title": "Professional Training in Web Development/ E-commerce with Python basics",
+                    "company": "WBS Training AG",
+                    "location": "Germany, Regensburg",
+                    "icon": "wbs",
+                    "description": [
+                        "Digital Marketing with HTML5 and E-Commerce",
+                        "Project with Shopware",
+                        "Python: Fundamentals",
+                        "Python: Functions and modules"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "klett",
+                    "date": "2021-06 - 2022-09",
+                    "title": "Certified Online-Marketing-Manager",
+                    "company": "Fernakademie für Erwachsenenbildung GmbH",
+                    "location": "remote",
+                    "icon": "klett",
+                    "description": [
+                        "Webdevelopment and Webdesign",
+                        "Online-Marketing",
+                        "Search Engine Marketing: SEO and SEA",
+                        "Webanalytics",
+                        "Social-Media Monitoring and Marketing",
+                        "E-Commerce and Onlineshops",
+                        "Banner advertising, E-Mail-Marketing",
+                        "Legal aspects"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "hza",
+                    "date": "2008-09 - 2011-07",
+                    "title": "Dual vocational training as specialized employee in office communication",
+                    "company": "Main customs office Regensburg",
+                    "location": "Germany, Regensburg",
+                    "icon": "zoll",
+                    "description": [
+                        "Administrative tasks",
+                        "Department assistant"
+                    ]
+                }
+            ]
+        },
+        "work": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "db",
+                    "date": "2023-10 - 2024-10",
+                    "title": "Subscription Management Clerk and UX-Team Collaborator Customer Portal",
+                    "company": "Deutsche Bahn AG",
+                    "location": "Germany, Regensburg",
+                    "icon": "db",
+                    "description": [
+                        "Subscription management",
+                        "End-users Instruction for our applications",
+                        "Collaboration and consultant for digital marketing and UX"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "bwr",
+                    "date": "2022-09 - 2024-10",
+                    "title": "Barista & Customer support",
+                    "company": "Boulderwelt GmbH",
+                    "location": "Germany, Regensburg",
+                    "icon": "bwr",
+                    "description": [
+                        "Barista and Counter attendant",
+                        "Instruction for new customers",
+                        "Plant care"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "wuerth",
+                    "date": "2019-04 - 2021-06",
+                    "title": "Branch Manager",
+                    "company": "Adolf Würth GmbH & Co. KG",
+                    "location": "Germany, Landshut",
+                    "icon": "wuerth",
+                    "description": [
+                        "Product presentation and sales",
+                        "Regional marketing campaigns",
+                        "Customer support and service"
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "id": "nyf",
+                    "date": "2018-10 - 2019-03",
+                    "title": "Sales Attendant",
+                    "company": "New Yorker Fashion",
+                    "location": "Germany, Landshut",
+                    "icon": "nyf",
+                    "description": [
+                        "Product presentation and sales",
+                        "Customer support and service"
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "id": "witt",
+                    "date": "2017-07 - 2018-09",
+                    "title": "Internal Sales",
+                    "company": "Wittmann Recycling GmbH",
+                    "location": "Germany, Ergolding",
+                    "icon": "wittmann",
+                    "description": [
+                        "Offer management",
+                        "Management of customer inquiries",
+                        "Consultant for problems with office-hardware and -software"
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "id": "lral",
+                    "date": "2013-10 - 2017-02",
+                    "title": "Specialist in Asylum Seekers' Benefits Law",
+                    "company": "County Office Landshut",
+                    "location": "Germany, Landshut",
+                    "icon": "lra",
+                    "description": [
+                        "Application of legal regulations",
+                        "Health assistance"
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "id": "gugg",
+                    "date": "2012-10 - 2013-06",
+                    "title": "Secretary in building construction",
+                    "company": "Guggenberger Bau GmbH",
+                    "location": "Germany, Mintraching",
+                    "icon": "guggenberger",
+                    "description": [
+                        "Correspondence with subcontractor and customers",
+                        "Administration of construction plans",
+                        "Creation of construction site files"
+                    ]
+                },
+                {
+                    "nr": 8,
+                    "id": "bwz",
+                    "date": "2011-09 - 2012-09",
+                    "title": "Office Manager",
+                    "company": "Education and Science Center of the Federal Finance Administration",
+                    "location": "Germany, Munich",
+                    "icon": "zoll",
+                    "description": [
+                        "Assistant to the management",
+                        "Processing of vacation requests and absences",
+                        "Monitoring time recording"
+                    ]
+                }
+            ]
         }
-      ]
     },
-    "work": {
-      "events": [
+    "projects": [
         {
-          "nr": 1,
-          "id": "db",
-          "date": "2023-10 - now",
-          "title": "Subscription Management Clerk and UX-Team Collaborator Customer Portal",
-          "company": "Deutsche Bahn AG",
-          "location": "Germany, Regensburg",
-          "icon": "db",
-          "description": [
-            "Subscription management",
-            "End-users Instruction for our applications",
-            "Collaboration and consultant for digital marketing and UX"
-          ]
+            "id": "portfolio_v2",
+            "name": "Portfolio Website v2",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Web development", "Web design", "Hosting"],
+            "preview": "",
+            "tags": ["react", "tailwindcss", "emailjs", "vite", "i18next"]
         },
         {
-          "nr": 2,
-          "id": "bwr",
-          "date": "2022-09 - now",
-          "title": "Counter attendant & Customer support",
-          "company": "Boulderwelt GmbH",
-          "location": "Germany, Regensburg",
-          "icon": "bwr",
-          "description": [
-            "Consulting service",
-            "Instruction for new customers",
-            "Plant care"
-          ]
+            "id": "portfolio_v1",
+            "name": "Portfolio Website v1",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Web development", "Web design", "Hosting"],
+            "preview": "screenshot_portfolio_v1",
+            "tags": ["react", "tailwindcss", "emailjs", "vite"]
         },
         {
-          "nr": 3,
-          "id": "wuerth",
-          "date": "2019-04 - 2021-06",
-          "title": "Branch Manager",
-          "company": "Adolf Würth GmbH & Co. KG",
-          "location": "Germany, Landshut",
-          "icon": "wuerth",
-          "description": [
-            "Product presentation and sales",
-            "Regional marketing campaigns",
-            "Customer support and service"
-          ]
+            "id": "fv",
+            "name": "Fischereiverein Pfakofen-Rogging e.V.",
+            "link": "https://fischereiverein-pfakofen-rogging.de",
+            "tasks": ["Redesign", "Hosting setup", "Back-ups", "Webmaster"],
+            "preview": "",
+            "tags": ["wordpress", "theme"]
         },
         {
-          "nr": 4,
-          "id": "nyf",
-          "date": "2018-10 - 2019-03",
-          "title": "Sales Attendant",
-          "company": "New Yorker Fashion",
-          "location": "Germany, Landshut",
-          "icon": "nyf",
-          "description": [
-            "Product presentation and sales",
-            "Customer support and service"
-          ]
-        },
-        {
-          "nr": 5,
-          "id": "witt",
-          "date": "2017-07 - 2018-09",
-          "title": "Internal Sales",
-          "company": "Wittmann Recycling GmbH",
-          "location": "Germany, Ergolding",
-          "icon": "wittmann",
-          "description": [
-            "Offer management",
-            "Management of customer inquiries",
-            "Consultant for problems with office-hardware"
-          ]
-        },
-        {
-          "nr": 6,
-          "id": "lral",
-          "date": "2013-10 - 2017-02",
-          "title": "Specialist in Asylum Seekers' Benefits Law",
-          "company": "County Office Landshut",
-          "location": "Germany, Landshut",
-          "icon": "lra",
-          "description": [
-            "Application of legal regulations",
-            "Health assistance"
-          ]
-        },
-        {
-          "nr": 7,
-          "id": "gugg",
-          "date": "2012-10 - 2013-06",
-          "title": "Secretary in building construction",
-          "company": "Guggenberger Bau GmbH",
-          "location": "Germany, Mintraching",
-          "icon": "guggenberger",
-          "description": [
-            "Correspondence with subcontractor and customers",
-            "Administration of construction plans",
-            "Creation of construction site files"
-          ]
-        },
-        {
-          "nr": 8,
-          "id": "bwz",
-          "date": "2011-09 - 2012-09",
-          "title": "Office Manager",
-          "company": "Education and Science Center of the Federal Finance Administration",
-          "location": "Germany, Munich",
-          "icon": "zoll",
-          "description": [
-            "Assistant to the management",
-            "Processing of vacation requests and absences",
-            "Monitoring time recording"
-          ]
+            "id": "mcmct",
+            "name": "Multifunctional Calculator",
+            "link": "https://github.com/t14c4r1n4/Python3_multifunctional_calculator",
+            "tasks": ["Team leadership", "Module manager"],
+            "preview": "",
+            "tags": ["python"]
         }
-      ]
-    }
-  }
+    ],
+    "services": [
+        {
+            "id": "website_development",
+            "name": "Website Development",
+            "tasks": [
+                "Creation and customization of responsive websites",
+                "Development of custom themes",
+                "Optimization for search engines (SEO)"
+            ]
+        },
+        {
+            "id": "ecommerce_platforms",
+            "name": "E-Commerce Platforms",
+            "tasks": [
+                "Setup and customization of online stores (e.g., Shopware)",
+                "Integration of payment and shipping solutions",
+                "Consulting for choosing the right e-commerce platform"
+            ]
+        },
+        {
+            "id": "seo_services",
+            "name": "SEO Services",
+            "tasks": [
+                "Keyword research and on-page optimization",
+                "Backlink creation and off-page strategies",
+                "Analysis of website traffic"
+            ]
+        },
+        {
+            "id": "social_media_marketing",
+            "name": "Social Media Marketing",
+            "tasks": [
+                "Creation and management of social media campaigns",
+                "Content planning and creation for social networks",
+                "Community management"
+            ]
+        },
+        {
+            "id": "email_marketing",
+            "name": "Email Marketing",
+            "tasks": [
+                "Creation and management of email campaigns",
+                "Segmentation and personalization of target audiences",
+                "Automation of email workflows"
+            ]
+        },
+        {
+            "id": "content_marketing",
+            "name": "Content Marketing",
+            "tasks": [
+                "Creation of blog posts, articles, and other content",
+                "Strategic planning of content campaigns",
+                "Content optimization for SEO"
+            ]
+        },
+        {
+            "id": "conversion_rate_optimization",
+            "name": "Conversion Rate Optimization (CRO)",
+            "tasks": [
+                "A/B testing to improve user experience",
+                "Analysis of customer feedback",
+                "Optimization of product pages"
+            ]
+        }
+    ]
 }

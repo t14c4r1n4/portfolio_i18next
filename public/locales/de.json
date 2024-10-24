@@ -1,203 +1,301 @@
 {
-  "nav": {
-    "about": "Über mich",
-    "home": "Home",
-    "services": "Leistungen",
-    "projects": "Projekte",
-    "contact": "Kontakt",
-    "search": "Suche"
-  },
-  "about": {
-    "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war.Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Ich begann einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden, der auch einige Module in HTML5 und CSS3 enthielt. Ich war fasziniert von dem, was ich mit diesen Sprachen erschaffen konnte. Dann erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler mit Grundlagen in Python. Dies war mein Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für Webentwicklung.In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Derzeit bevorzuge ich React wegen seiner einfachen Syntax und der lebendigen Community."
-  },
-  "hero": {
-    "greeting": "Hi, man nennt mich Carina Arnold.",
-    "part1": "Ich liebe es, moderne, funktionale Websites mit minimalistischem Design zu erstellen.",
-    "cta": "Kontaktiere mich jetzt",
-    "part2": "und erzähl mir von Deinem Projekt."
-  },
-  "contact": {
-    "name": {
-      "label": "Name",
-      "placeholder": "Name",
-      "message": "Tell me your name"
+    "nav": {
+        "menu": "Menü",
+        "about": "Über mich",
+        "home": "Home",
+        "services": "Leistungen",
+        "projects": "Projekte",
+        "contact": "Kontakt",
+        "search": "Suche"
     },
-    "email": {
-      "label": "E-Mail",
-      "placeholder": "E-Mail",
-      "message": "Wie lautet deine E-Mail-Adresse?"
+    "about": {
+        "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war. Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Daraufhin begann ich einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden. Der Kurs enthielt auch einige Module in HTML5 und CSS3, und ich war fasziniert von dem, was ich mit diesen Sprachen erschaffen konnte.",
+        "course": "Kurz darauf erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler, der auch Grundlagen in Python abdeckte. Dies markierte meinen Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für die Webentwicklung.",
+        "learning": "In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Besonders React hat es mir angetan, aufgrund seiner einfachen Syntax und der lebendigen Community.",
+        "current": "Aktuell beschäftige ich mich intensiv mit Angular, um mein Wissen weiter auszubauen und meine Fähigkeiten im Bereich der modernen Webentwicklung zu erweitern."
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message",
-      "message": "Deine Nachricht"
+    "hero": {
+        "intro": "Webentwickler, Webdesigner, Online-Marketing-Manager",
+        "trans": "Man nennt mich auch Carina Arnold.",
+        "part1": "Meine Leidenschaft ist es, moderne, funktionale Websites mit minimalistischem Design zu entwickeln.",
+        "cta": "Kontaktiere mich jetzt",
+        "part2": "und erzähl mir von Deinem Projekt."
     },
-    "submit": "Senden"
-  },
-  "timeline": {
-    "education": "Berufliche Weiterbildung",
-    "career": "Karriere",
-    "edu": {
-      "events": [
-        {
-          "nr": 1,
-          "id": "wbs",
-          "date": "2022-10 - 2023-01",
-          "title": "Berufliche Weiterbildung in Webentwicklung/ E-Commerce mit Python-Grundlagen",
-          "company": "WBS Training AG",
-          "location": "Deutschland, Regensburg",
-          "icon": "wbs",
-          "description": [
-            "Digitales Marketing mit HTML5 und E-Commerce",
-            "Projekt mit Shopware",
-            "Python: Grundlagen",
-            "Python: Funktionen und Module"
-          ]
+    "contact": {
+        "name": {
+            "label": "Name",
+            "placeholder": "Name",
+            "message": "Tell me your name"
         },
-        {
-          "nr": 2,
-          "id": "klett",
-          "date": "2021-06 - 2022-09",
-          "title": "Zertifizierter Online-Marketing-Manager",
-          "company": "Fernakademie für Erwachsenenbildung GmbH",
-          "location": "Remote",
-          "icon": "klett",
-          "description": [
-            "Webentwicklung und Webdesign",
-            "Online-Marketing",
-            "Suchmaschinenmarketing: SEO und SEA",
-            "Webanalyse",
-            "Social-Media-Monitoring und Marketing",
-            "E-Commerce und Onlineshops",
-            "Bannerwerbung, E-Mail-Marketing",
-            "Rechtliche Aspekte"
-          ]
+        "email": {
+            "label": "E-Mail",
+            "placeholder": "E-Mail",
+            "message": "Wie lautet deine E-Mail-Adresse?"
         },
-        {
-          "nr": 3,
-          "id": "hza",
-          "date": "2008-09 - 2011-07",
-          "title": "Duale Berufsausbildung als Fachangestellte für Bürokommunikation",
-          "company": "Hauptzollamt Regensburg",
-          "location": "Deutschland, Regensburg",
-          "icon": "zoll",
-          "description": ["Verwaltungsaufgaben", "Abteilungsassistenz"]
+        "message": {
+            "label": "Message",
+            "placeholder": "Message",
+            "message": "Deine Nachricht"
+        },
+        "submit": "Senden"
+    },
+    "timeline": {
+        "education": "Berufliche Weiterbildung",
+        "career": "Karriere",
+        "edu": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "wbs",
+                    "date": "2022-10 - 2023-01",
+                    "title": "Berufliche Weiterbildung in Webentwicklung/ E-Commerce mit Python-Grundlagen",
+                    "company": "WBS Training AG",
+                    "location": "Deutschland, Regensburg",
+                    "icon": "wbs",
+                    "description": [
+                        "Digitales Marketing mit HTML5 und E-Commerce",
+                        "Projekt mit Shopware",
+                        "Python: Grundlagen",
+                        "Python: Funktionen und Module"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "klett",
+                    "date": "2021-06 - 2022-09",
+                    "title": "Zertifizierter Online-Marketing-Manager",
+                    "company": "Fernakademie für Erwachsenenbildung GmbH",
+                    "location": "Remote",
+                    "icon": "klett",
+                    "description": [
+                        "Webentwicklung und Webdesign",
+                        "Online-Marketing",
+                        "Suchmaschinenmarketing: SEO und SEA",
+                        "Webanalyse",
+                        "Social-Media-Monitoring und Marketing",
+                        "E-Commerce und Onlineshops",
+                        "Bannerwerbung, E-Mail-Marketing",
+                        "Rechtliche Aspekte"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "hza",
+                    "date": "2008-09 - 2011-07",
+                    "title": "Duale Berufsausbildung als Fachangestellte für Bürokommunikation",
+                    "company": "Hauptzollamt Regensburg",
+                    "location": "Deutschland, Regensburg",
+                    "icon": "zoll",
+                    "description": [
+                        "Verwaltungsaufgaben",
+                        "Abteilungsassistenz"
+                    ]
+                }
+            ]
+        },
+        "work": {
+            "events": [
+                {
+                    "nr": 1,
+                    "id": "db",
+                    "date": "2023-10 - 2024-10",
+                    "title": "Sachbearbeiter für Abonnementverwaltung und UX-Team-Mitarbeiter im Kundenportal",
+                    "company": "Deutsche Bahn AG",
+                    "location": "Deutschland, Regensburg",
+                    "icon": "db",
+                    "description": [
+                        "Abomanagement im Fahrgastmarketing",
+                        "Einweisung der Kollegen in die neue Software",
+                        "Zusammenarbeit und Beratung im digitalen Marketing und UX"
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "id": "bwr",
+                    "date": "2022-09 - 2024-10",
+                    "title": "Barista & Kundensupport",
+                    "company": "Boulderwelt GmbH",
+                    "location": "Deutschland, Regensburg",
+                    "icon": "bwr",
+                    "description": [
+                        "Barista und Thekenservice",
+                        "Einweisung neuer Kunden",
+                        "Pflanzenpflege"
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "id": "wuerth",
+                    "date": "2019-04 - 2021-06",
+                    "title": "Filialleiter",
+                    "company": "Adolf Würth GmbH & Co. KG",
+                    "location": "Deutschland, Landshut",
+                    "icon": "wuerth",
+                    "description": [
+                        "Produktpräsentation und Vertrieb",
+                        "Regionale Marketingkampagnen",
+                        "Kundensupport und -service"
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "id": "nyf",
+                    "date": "2018-10 - 2019-03",
+                    "title": "Verkaufsmitarbeiter",
+                    "company": "New Yorker Fashion",
+                    "location": "Deutschland, Landshut",
+                    "icon": "nyf",
+                    "description": [
+                        "Produktpräsentation und Vertrieb",
+                        "Kundensupport und -service"
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "id": "witt",
+                    "date": "2017-07 - 2018-09",
+                    "title": "Innendienst",
+                    "company": "Wittmann Recycling GmbH",
+                    "location": "Deutschland, Ergolding",
+                    "icon": "wittmann",
+                    "description": [
+                        "Erstellen von Angeboten",
+                        "Bearbeitung von Kundenanfragen",
+                        "Unterstützung bei Problemen mit Bürohardware und -software"
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "id": "lral",
+                    "date": "2013-10 - 2017-02",
+                    "title": "Sachbearbeiterin für Asylbewerberleistungen",
+                    "company": "Landratsamt Landshut",
+                    "location": "Deutschland, Landshut",
+                    "icon": "lra",
+                    "description": [
+                        "Anwendung von rechtlichen Vorschriften",
+                        "Krankenhilfe nach AsylbLG"
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "id": "gugg",
+                    "date": "2012-10 - 2013-06",
+                    "title": "Sekretärin im Schlüsselfertigbau",
+                    "company": "Guggenberger Bau GmbH",
+                    "location": "Deutschland, Mintraching",
+                    "icon": "guggenberger",
+                    "description": [
+                        "Korrespondenz mit Subunternehmern und Kunden",
+                        "Verwaltung von Bauplänen",
+                        "Erstellung von Baustellenakten"
+                    ]
+                },
+                {
+                    "nr": 8,
+                    "id": "bwz",
+                    "date": "2011-09 - 2012-09",
+                    "title": "Assistenz der Geschäftsführung",
+                    "company": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+                    "location": "Deutschland, München",
+                    "icon": "zoll",
+                    "description": [
+                        "Assistenz der Geschäftsführung",
+                        "Bearbeitung von Urlaubsanträgen und Abwesenheiten",
+                        "Überwachung der Zeiterfassung"
+                    ]
+                }
+            ]
         }
-      ]
     },
-    "work": {
-      "events": [
+    "projects": [
         {
-          "nr": 1,
-          "id": "db",
-          "date": "2023-10 - jetzt",
-          "title": "Sachbearbeiter für Abonnementverwaltung und UX-Team-Mitarbeiter im Kundenportal",
-          "company": "Deutsche Bahn AG",
-          "location": "Deutschland, Regensburg",
-          "icon": "db",
-          "description": [
-            "Abonnementverwaltung",
-            "Einweisung der Endnutzer in unsere Anwendungen",
-            "Zusammenarbeit und Beratung im digitalen Marketing und UX"
-          ]
+            "id": "portfolio_v2",
+            "name": "Portfolio Website v2",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Webentwicklung", "Webdesign", "Hosting"],
+            "preview": "",
+            "tags": ["react", "tailwindcss", "emailjs", "vite", "i18next"]
         },
         {
-          "nr": 2,
-          "id": "bwr",
-          "date": "2022-09 - jetzt",
-          "title": "Tresenpersonal & Kundensupport",
-          "company": "Boulderwelt GmbH",
-          "location": "Deutschland, Regensburg",
-          "icon": "bwr",
-          "description": [
-            "Beratung",
-            "Einweisung neuer Kunden",
-            "Pflanzenpflege"
-          ]
+            "id": "portfolio_v1",
+            "name": "Portfolio Website v1",
+            "link": "https://www.webitalize.de/",
+            "tasks": ["Webentwicklung", "Webdesign", "Hosting"],
+            "preview": "screenshot_portfolio_v1",
+            "tags": ["react", "tailwindcss", "emailjs", "vite"]
         },
         {
-          "nr": 3,
-          "id": "wuerth",
-          "date": "2019-04 - 2021-06",
-          "title": "Filialleiter",
-          "company": "Adolf Würth GmbH & Co. KG",
-          "location": "Deutschland, Landshut",
-          "icon": "wuerth",
-          "description": [
-            "Produktpräsentation und Vertrieb",
-            "Regionale Marketingkampagnen",
-            "Kundensupport und -service"
-          ]
+            "id": "fv",
+            "name": "Fischereiverein Pfakofen-Rogging e.V.",
+            "link": "https://fischereiverein-pfakofen-rogging.de",
+            "tasks": ["Redesign", "Hosting-Setup", "Back-ups", "Webmaster"],
+            "preview": "",
+            "tags": ["wordpress", "theme"]
         },
         {
-          "nr": 4,
-          "id": "nyf",
-          "date": "2018-10 - 2019-03",
-          "title": "Verkaufsmitarbeiter",
-          "company": "New Yorker Fashion",
-          "location": "Deutschland, Landshut",
-          "icon": "nyf",
-          "description": [
-            "Produktpräsentation und Vertrieb",
-            "Kundensupport und -service"
-          ]
-        },
-        {
-          "nr": 5,
-          "id": "witt",
-          "date": "2017-07 - 2018-09",
-          "title": "Innendienst",
-          "company": "Wittmann Recycling GmbH",
-          "location": "Deutschland, Ergolding",
-          "icon": "wittmann",
-          "description": [
-            "Angebotsmanagement",
-            "Bearbeitung von Kundenanfragen",
-            "Beratung bei Problemen mit Bürohardware"
-          ]
-        },
-        {
-          "nr": 6,
-          "id": "lral",
-          "date": "2013-10 - 2017-02",
-          "title": "Fachkraft im Asylbewerberleistungsgesetz",
-          "company": "Landratsamt Landshut",
-          "location": "Deutschland, Landshut",
-          "icon": "lra",
-          "description": [
-            "Anwendung von rechtlichen Vorschriften",
-            "Gesundheitshilfe"
-          ]
-        },
-        {
-          "nr": 7,
-          "id": "gugg",
-          "date": "2012-10 - 2013-06",
-          "title": "Sekretär im Hochbau",
-          "company": "Guggenberger Bau GmbH",
-          "location": "Deutschland, Mintraching",
-          "icon": "guggenberger",
-          "description": [
-            "Korrespondenz mit Subunternehmern und Kunden",
-            "Verwaltung von Bauplänen",
-            "Erstellung von Baustellenakten"
-          ]
-        },
-        {
-          "nr": 8,
-          "id": "bwz",
-          "date": "2011-09 - 2012-09",
-          "title": "Assistenz der Geschäftsführung",
-          "company": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
-          "location": "Deutschland, München",
-          "icon": "zoll",
-          "description": [
-            "Assistenz der Geschäftsführung",
-            "Bearbeitung von Urlaubsanträgen und Abwesenheiten",
-            "Überwachung der Zeiterfassung"
-          ]
+            "id": "mcmct",
+            "name": "Multifunktionaler Taschenrechner",
+            "link": "https://github.com/t14c4r1n4/Python3_multifunctional_calculator",
+            "tasks": ["Teamleitung", "Modul-Manager"],
+            "preview": "",
+            "tags": ["python"]
         }
-      ]
-    }
-  }
+    ],
+    "services": [
+        {
+            "id": "website_development",
+            "name": "Webseitenentwicklung",
+            "tasks": [
+                "Erstellung und Anpassung von responsiven Webseiten",
+                "Entwicklung von benutzerdefinierten Themes",
+                "Optimierung für Suchmaschinen (SEO)"
+            ]
+        },
+        {
+            "id": "ecommerce_platforms",
+            "name": "E-Commerce-Plattformen",
+            "tasks": [
+                "Einrichtung und Anpassung von Online-Shops (z.B. Shopware)",
+                "Integration von Zahlungs- und Versandlösungen",
+                "Beratung zur Auswahl der richtigen E-Commerce-Plattform"
+            ]
+        },
+        {
+            "id": "seo_services",
+            "name": "SEO-Dienstleistungen",
+            "tasks": [
+                "Keyword-Recherche und On-Page-Optimierung",
+                "Erstellung von Backlinks und Off-Page-Strategien",
+                "Analyse von Webseiten-Traffic"
+            ]
+        },
+        {
+            "id": "social_media_marketing",
+            "name": "Social Media Marketing",
+            "tasks": [
+                "Erstellung und Verwaltung von Social-Media-Kampagnen",
+                "Content-Planung und -Erstellung für soziale Netzwerke",
+                "Community-Management"
+            ]
+        },
+        {
+            "id": "email_marketing",
+            "name": "E-Mail-Marketing",
+            "tasks": [
+                "Erstellung und Verwaltung von E-Mail-Kampagnen",
+                "Segmentierung und Personalisierung von Zielgruppen",
+                "Automatisierung von E-Mail-Workflows"
+            ]
+        },
+        {
+            "id": "conversion_rate_optimization",
+            "name": "Conversion-Rate-Optimierung (CRO)",
+            "tasks": [
+                "A/B-Testing zur Benutzerfreundlichkeit",
+                "Analyse von Kundenfeedback",
+                "Optimierung von Produktseiten"
+            ]
+        }
+    ]
 }

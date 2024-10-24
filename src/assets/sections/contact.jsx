@@ -1,9 +1,10 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { useTranslation } from "react-i18next";
 
 export const Contact = () => {
     const form = useRef();
-
+    const { t } = useTranslation();
     const sendEmail = (e) => {
         e.preventDefault();
 
@@ -22,12 +23,13 @@ export const Contact = () => {
     };
 
     return (
-        <div className="section-container grid gap-8 grid-cols-1">
+        <div className="section-container grid gap-8 grid-cols-1" id="contact">
+            <h2 className="">{t('nav.contact')}</h2>
             <div className="flex flex-col">
                 <form ref={form} onSubmit={sendEmail} className="space-y-2.5">
                     <div className="form-group">
                         <label className="form-label">
-                            Name
+                            {t('contact.name.label')}
                             <abbr title="required">*</abbr>
                         </label>
                         <input
@@ -37,41 +39,41 @@ export const Contact = () => {
                             required={true}
                             minLength={5}
                             maxLength={24}
-                            placeholder="Name"
-                            message="Please tell me your name"
+                            placeholder={t('contact.name.placeholder')}
+                            message={t('contact.name.message')}
                             className="form-input"
                         />
                     </div>
                     <div className="form-group">
                         <label className="form-label">
-                            Email
+                            {t('contact.email.label')}
                             <abbr title="required">*</abbr>
                         </label>
                         <input
                             type="email"
                             name="user_email"
                             required={true}
-                            message="Please enter your valid E-Mail-Adress"
+                            message={t('contact.email.message')}
                             maxLength={50}
-                            placeholder="E-Mail"
+                            placeholder={t('contact.email.placeholder')}
                             className="form-input"
                         />
                     </div>
                     <div className="form-group">
                         <label className="form-label">
-                            Message
+                            {t('contact.message.label')}
                             <abbr title="required">*</abbr>
                         </label>
                         <textarea
                             name="message"
-                            message="Please enter your message"
+                            message={t('contact.message.message')}
                             required={true}
-                            placeholder="Message"
+                            placeholder={t('contact.message.placeholder')}
                             rows="5" cols="33"
                             className="form-input"
                         />
                         <div className="">
-                            <input type="submit" value="Send" className="form-submit" />
+                            <input type="submit" value={t('contact.submit')} className="form-submit" />
                         </div>
                     </div>
                 </form>

@@ -24,6 +24,8 @@ import bg from './bg.svg'
 // me
 import me_circle from './me_circle.png'
 
+import screenshot_portfolio_v1 from './others/screenshot_portfolio_v1.png'
+
 
 export {
     de,
@@ -41,6 +43,7 @@ export {
     me_circle,
     db,
     bg,
+    screenshot_portfolio_v1
 }
 
 export default bg;
