@@ -129,7 +129,7 @@ const Navbar = () => {
             onClick={toggleLanguageDropdown}
           >
             <Flag country={lngs[i18n.language]?.flag || 'US'} className="mr-2" />
-            <span>{lngs[i18n.language]?.nativeName || 'English'}</span>
+            <span className=''>{lngs[i18n.language]?.nativeName || 'English'}</span>
             <svg
               className="ml-2 fill-current"
               xmlns="http://www.w3.org/2000/svg"
@@ -141,14 +141,14 @@ const Navbar = () => {
             </svg>
           </button>
           {isLanguageDropdownOpen && (
-            <ul className="z-50 bg-base-100 shadow p-2 rounded-box w-52 dropdown-content menu">
+            <ul className="z-50 bg-base-100 shadow p-4 rounded-box w-52 dropdown-content menu space-y-5">
               {Object.keys(lngs).map((lng) => (
                 <li key={lng} className='hover:scale-125 hover:text-secondary transition-colors hover:translate-x-4 duration-700'>
                   <button
                     onClick={() => handleLanguageChange(lng)}
                     className="flex items-center"
                   >
-                    <Flag country={lngs[lng].flag} className="mr-2" />
+                    <Flag country={lngs[lng].flag} className="" />
                     {lngs[lng].nativeName}
                   </button>
                 </li>

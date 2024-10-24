@@ -194,4 +194,8 @@
       padding: 4vh 4vw;
     }
   }
+
+  #home {
+    height: 100vh
+  }
 }

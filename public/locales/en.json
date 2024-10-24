@@ -12,7 +12,8 @@
         "intro": "In 2022, after another temporary job, I decided it was time for a change. While traveling, I met a girl who worked as an online marketing manager, which sparked my interest. I then started a distance learning course to become a certified online marketing manager. The course also included some modules in HTML5 and CSS3, and I was fascinated by what I could create with these languages.",
         "course": "Shortly thereafter, I received an offer for a course as an online shop developer, which also covered the basics of Python. This marked my entry into programming, and I discovered a passion for web development.",
         "learning": "In my spare time, I delved into Django and later into JavaScript, React, and Vue. I particularly enjoyed React due to its simple syntax and vibrant community.",
-        "current": "Currently, I am focusing on Angular to expand my knowledge and enhance my skills in modern web development."
+        "current": "Currently, I am focusing on Angular to expand my knowledge and enhance my skills in modern web development.",
+        "cv-download": "Here you can download my resume."
     },
     "hero": {
         "intro": "Webdeveloper, Webdesigner, Online-Marketing-Manager",

@@ -21,7 +21,7 @@ const Projects = () => {
                                     </li>
                                 </ul>
                             ))}
-                            <a href={project.link} />
+                            <a href={project.link} target="_blank" />
                             <div className="flex flex-wrap flex-auto">
                                 {project.tags.map((tag, index) => (
                                     <div key={index} className="badge badge-accent m-1">

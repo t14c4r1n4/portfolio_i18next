@@ -40,7 +40,6 @@ export const Contact = () => {
                             minLength={5}
                             maxLength={24}
                             placeholder={t('contact.name.placeholder')}
-                            message={t('contact.name.message')}
                             className="form-input"
                         />
                     </div>
@@ -53,7 +52,6 @@ export const Contact = () => {
                             type="email"
                             name="user_email"
                             required={true}
-                            message={t('contact.email.message')}
                             maxLength={50}
                             placeholder={t('contact.email.placeholder')}
                             className="form-input"
@@ -66,7 +64,6 @@ export const Contact = () => {
                         </label>
                         <textarea
                             name="message"
-                            message={t('contact.message.message')}
                             required={true}
                             placeholder={t('contact.message.placeholder')}
                             rows="5" cols="33"

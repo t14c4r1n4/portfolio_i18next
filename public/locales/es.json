@@ -12,7 +12,8 @@
         "intro": "En 2022, después de otro trabajo temporal, decidí que era hora de un cambio. Durante un viaje, conocí a una chica que trabajaba como gerente de marketing en línea, lo que despertó mi interés. Luego comencé un curso a distancia para convertirme en gerente de marketing en línea certificado. El curso también incluía algunos módulos en HTML5 y CSS3, y me fascinó lo que podía crear con estos lenguajes.",
         "course": "Poco después, recibí una oferta para un curso como desarrollador de tiendas en línea, que también cubría los fundamentos de Python. Esto marcó mi entrada en la programación, y descubrí una pasión por el desarrollo web.",
         "learning": "En mi tiempo libre, profundicé en Django y luego en JavaScript, React y Vue. Disfruté especialmente de React por su sintaxis sencilla y su comunidad vibrante.",
-        "current": "Actualmente, me estoy enfocando en Angular para expandir mi conocimiento y mejorar mis habilidades en el desarrollo web moderno."
+        "current": "Actualmente, me estoy enfocando en Angular para expandir mi conocimiento y mejorar mis habilidades en el desarrollo web moderno.",
+        "cv-download": "Aquí puedes descargar mi currículum."
     },
     "hero": {
         "intro": "Desarrolladora web, diseñadora web, gerente de marketing en línea",

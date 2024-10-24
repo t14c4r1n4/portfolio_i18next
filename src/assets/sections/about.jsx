@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import { FaDownload } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
 import me from "../images/me_circle.png";
 
@@ -20,6 +21,11 @@ const About = () => {
                 <p className="text">{t('about.learning')}</p>
                 <p className="text">{t('about.current')}</p>
             </div>
+            <a href="./src/assets/components/2410_cv_carinaarnold.pdf" download className="hover:fill-secondary hover:text-secondary">
+
+                <i><FaDownload className="w-8 h-8" /></i>
+                <span>{t('about.cv-download')}</span>
+            </a>
         </div>
     );
 };
