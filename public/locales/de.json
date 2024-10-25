@@ -9,8 +9,8 @@
         "search": "Suche"
     },
     "about": {
-        "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war. Auf einer Reise traf ich ein Mädchen, das als Online-Marketing-Managerin arbeitete, und das weckte mein Interesse. Daraufhin begann ich einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden. Der Kurs enthielt auch einige Module in HTML5 und CSS3, und ich war fasziniert von dem, was ich allein mit diesen Technologien erschaffen konnte.",
-        "course": "Kurz darauf erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler, der auch Grundlagen in Python abdeckte. Dies markierte meinen Einstieg in die Programmierung, und ich entdeckte eine Leidenschaft für die Webentwicklung.",
+        "intro": "Im Jahr 2022, nach einem weiteren befristeten Job, entschied ich, dass es Zeit für eine Veränderung war. Auf einer Reise traf ich auf eine Online-Marketing-Managerin, was mein Interesse weckte. Daraufhin begann ich einen Fernlehrgang, um zertifizierter Online-Marketing-Manager zu werden. Der Kurs enthielt auch einige Module in HTML5 und CSS3 und ich war fasziniert von dem, was ich allein mit diesen Technologien erschaffen konnte.",
+        "course": "Kurz darauf erhielt ich ein Angebot für einen Kurs als Online-Shop-Entwickler, der auch Grundlagen in Python abdeckte. Dies war mein Einstieg in die Programmierung und ich entdeckte eine Leidenschaft für die Webentwicklung.",
         "learning": "In meiner Freizeit vertiefte ich mich in Django und später in JavaScript, React und Vue. Besonders React hat es mir angetan, aufgrund seiner einfachen Syntax und der lebendigen Community.",
         "current": "Aktuell beschäftige ich mich intensiv mit Angular, um mein Wissen weiter auszubauen und meine Fähigkeiten im Bereich der modernen Webentwicklung zu erweitern.",
         "cv-download": "Hier kannst du meinen Lebenslauf downloaden."
