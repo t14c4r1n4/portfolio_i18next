@@ -15,7 +15,7 @@ const Timeline = ({ events, titleKey }) => {
                             </div>
                             <div key={event.id} className={`${event.nr % 2 === 0 ? 'timeline-end' : 'timeline-start'} bg-zinc-800 p-4 rounded-lg`} >
                                 <div className="">
-                                    <div className="">
+                                    <div className="text-left">
                                         <time className="text-sm text-secondary">{event.date}</time>
                                         <h3 className="text-lg font-semibold">{t(`${event.title}`)}</h3>
                                         <p className="text-sm text-secondary opacity-50">{event.company} - {event.location}</p>
