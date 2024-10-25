@@ -5,12 +5,14 @@ import { HiOutlineHome } from "react-icons/hi2";
 import { MdPermIdentity } from "react-icons/md";
 import { MdOutlineDeveloperMode } from "react-icons/md";
 import { IoBriefcaseOutline } from "react-icons/io5";
+import { FaArrowTrendUp } from "react-icons/fa6";
 
 import About from '../sections/about';
 import Home from '../sections/home';
 import Projects from '../sections/projects';
 import Services from '../sections/services';
 import Contact from '../sections/contact';
+import Career from "../sections/career";
 
 
 
@@ -54,6 +56,14 @@ const getNavItems = () => {
       href: '/services',
       icon: <MdOutlineDeveloperMode {...iconProps} />,
       section: <Services />,
+    },
+    {
+      id: 'career',
+      alt: t('nav.career'),
+      name: t('nav.career'),
+      href: '/career',
+      icon: <FaArrowTrendUp {...iconProps} />,
+      section: <Career />,
     },
     {
       id: 'contact',

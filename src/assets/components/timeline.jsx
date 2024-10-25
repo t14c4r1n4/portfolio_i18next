@@ -1,4 +1,3 @@
-import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 const Timeline = ({ events, titleKey }) => {
@@ -10,7 +9,7 @@ const Timeline = ({ events, titleKey }) => {
             <div className="flex flex-col items-center">
                 <ul className='timeline timeline-snap-icon max-md:timeline-compact timeline-vertical'>
                     {events.map((event, index) => (
-                        <li className='rounded-box list-none max-w-screen-md py-4'>
+                        <li key={index} className='rounded-box list-none max-w-screen-md py-4'>
                             <div className="timeline-middle p-3 rounded-full mr-4">
                                 <img src={`../src/assets/images/companies/${event.icon}.png`} alt={`${event.company} logo`} className="w-8 h-8 hover:scale-125" />
                             </div>

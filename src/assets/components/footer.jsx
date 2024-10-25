@@ -24,7 +24,7 @@ export default function Footer() {
 
   return (
     <footer className="bottom-0 z-3 sticky bg-base-100 p-4 w-full">
-      <div className="flex flex-cols justify-center space-x-5 divide-x divide-dotted divide-zinc-800 container">
+      <div className="flex flex-cols justify-center space-x-2 md:space-x-5 divide-x divide-dotted divide-zinc-800 container">
 
         {/* Imprint Button with Tooltip */}
         <button
@@ -42,7 +42,7 @@ export default function Footer() {
         <ImprintModal isOpen={modalIsOpen} onRequestClose={closeModal} />
 
         {/* Container for Social Icons */}
-        <div className="flex flex-row space-x-3 pl-3">
+        <div className="flex flex-row space-x-2 md:space-x-3 pl-1 md:pl-3">
           {/* Github */}
           <a
             href="https://github.com/t14c4r1n4"
@@ -106,7 +106,7 @@ export default function Footer() {
           </a>
         </div>
 
-        <p className="mx-5 pl-3 text-zinc-500">© {YEAR} Carina Arnold</p>
+        <p className="md:mx-5 pl-1 md:pl-3 text-zinc-500">© {YEAR} Carina Arnold</p>
       </div>
     </footer>
   );

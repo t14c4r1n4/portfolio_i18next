@@ -8,7 +8,7 @@ const About = () => {
     const { t } = useTranslation();
 
     return (
-        <div className="md:text-md lg:text-lg section-container">
+        <div className="md:text-md lg:text-lg section-container" id="about">
             <h2>{t('nav.about')}</h2>
             <img
                 src={me}

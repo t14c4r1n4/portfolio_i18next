@@ -16,7 +16,7 @@ import wuerth from './companies/wuerth.png'
 import zoll from './companies/zoll.png'
 import klett from './companies/klett.png'
 import wbs from './companies/wbs.png'
-import db from './companies/db.svg'
+import db from './companies/db.png'
 
 // background
 import bg from './bg.svg'
