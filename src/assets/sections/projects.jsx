@@ -31,9 +31,9 @@ const Projects = () => {
                             </div>
 
                         </div>
-                        <figure className="px-10 pt-10">
+                        {/* <figure className="px-10 pt-10">
                             <img src={project.preview} alt={project.name} className="mb-8" href="webitalize.de" target="_blank" />
-                        </figure>
+                        </figure> */}
                     </div>
                 ))}
             </div>
