@@ -24,30 +24,17 @@ const Navbar = () => {
     }
     closeDropdown();
   };
-  const isMobile = useMediaQuery('(max-width: 768px)'); // Check for mobile view
+  const isMobile = useMediaQuery('(max-width: 768px)');
 
-  // State to control the dropdown visibility
   const [isDropdownOpen, setDropdownOpen] = useState(false);
   const [isLanguageDropdownOpen, setLanguageDropdownOpen] = useState(false);
 
-  // Toggle dropdown visibility
-  const toggleDropdown = () => {
-    setDropdownOpen(!isDropdownOpen);
-  };
-
-  // Close dropdown when an item is selected
-  const closeDropdown = () => {
-    setDropdownOpen(false);
-  };
-
-  // Toggle language dropdown visibility
-  const toggleLanguageDropdown = () => {
-    setLanguageDropdownOpen(!isLanguageDropdownOpen);
-  };
-
+  const toggleDropdown = () => setDropdownOpen(!isDropdownOpen);
+  const closeDropdown = () => setDropdownOpen(false);
+  const toggleLanguageDropdown = () => setLanguageDropdownOpen(!isLanguageDropdownOpen);
   const handleLanguageChange = (lng) => {
     i18n.changeLanguage(lng);
-    setLanguageDropdownOpen(false); // Close language dropdown after selection
+    setLanguageDropdownOpen(false);
   };
 
   return (
@@ -64,32 +51,32 @@ const Navbar = () => {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="w-8 h-8"
+                className="w-8 h-8 text-indigo-600"
                 fill="none"
                 viewBox="0 0 24 24"
-                stroke="currentColor">
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  d="M4 6h16M4 12h16M4 18h7" />
+                stroke="currentColor"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h7" />
               </svg>
-              <span>{t('nav.menu')}</span>
+              <span className="text-indigo-600 transition-colors duration-300">{t('nav.menu')}</span>
             </button>
             {isDropdownOpen && (
               <ul
                 tabIndex={0}
-                className="z-10 bg-base-100 shadow mt-3 p-2 rounded-box dropdown-content menu menu-sm">
+                className="z-10 bg-base-100 shadow mt-3 p-2 rounded-box dropdown-content menu menu-sm"
+              >
                 {navItems.map((page) => (
                   <li key={page.id} className='w-xs'>
                     <button
-                      className="flex flex-col hover:scale-125 hover:text-secondary duration-700"
+                      className="group flex flex-col items-center px-3 py-2 rounded-lg transition-colors duration-300"
                       onClick={() => handleScrollTo(page.id)}
                     >
-                      <span className="mx-auto mb-2">
+                      <span className="mx-auto mb-2 text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
                         {page.icon}
                       </span>
-                      <span className="text-xs">{page.name}</span>
+                      <span className="text-xs text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
+                        {page.name}
+                      </span>
                     </button>
                   </li>
                 ))}
@@ -107,12 +94,14 @@ const Navbar = () => {
               <li key={page.id} className="w-xs">
                 <Link
                   to={`${page.href}`}
-                  className="flex flex-col hover:scale-125 hover:shadow-2xl hover:text-secondary duration-700"
+                  className="group flex flex-col items-center px-3 py-2 rounded-lg transition-colors duration-300"
                 >
-                  <span className="mx-auto mb-2">
+                  <span className="mx-auto mb-2 text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
                     {page.icon}
                   </span>
-                  <span className="text-sm">{page.name}</span>
+                  <span className="text-sm text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
+                    {page.name}
+                  </span>
                 </Link>
               </li>
             ))}
@@ -125,13 +114,15 @@ const Navbar = () => {
         <div className="dropdown dropdown-end">
           <button
             tabIndex={0}
-            className="flex items-center btn btn-ghost"
+            className="group flex items-center px-3 py-2 rounded-lg btn-ghost transition-colors duration-300"
             onClick={toggleLanguageDropdown}
           >
             <Flag country={lngs[i18n.language]?.flag || 'US'} className="mr-2" />
-            <span className=''>{lngs[i18n.language]?.nativeName || 'English'}</span>
+            <span className="text-sm text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
+              {lngs[i18n.language]?.nativeName || 'English'}
+            </span>
             <svg
-              className="ml-2 fill-current"
+              className="ml-2 fill-current text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300"
               xmlns="http://www.w3.org/2000/svg"
               width="20"
               height="20"
@@ -143,13 +134,15 @@ const Navbar = () => {
           {isLanguageDropdownOpen && (
             <ul className="z-50 bg-base-100 shadow p-4 rounded-box w-52 dropdown-content menu space-y-5">
               {Object.keys(lngs).map((lng) => (
-                <li key={lng} className='hover:scale-125 hover:text-secondary transition-colors hover:translate-x-4 duration-700'>
+                <li key={lng} className='transition-transform duration-300 hover:scale-110'>
                   <button
                     onClick={() => handleLanguageChange(lng)}
-                    className="flex items-center"
+                    className="group flex items-center px-3 py-2 rounded-lg transition-colors duration-300"
                   >
                     <Flag country={lngs[lng].flag} className="" />
-                    {lngs[lng].nativeName}
+                    <span className="text-indigo-600 group-hover:text-[#F97316] transition-colors duration-300">
+                      {lngs[lng].nativeName}
+                    </span>
                   </button>
                 </li>
               ))}
