@@ -1,6 +1,7 @@
 import {
+    fb,
     bwr,
-    guggenberger,
+    gugg,
     lra,
     nyf,
     wittmann,
@@ -12,8 +13,18 @@ import {
 const careerEvents = () => {
     [
         {
+            id: 'fb',
+            date: "2024-12 - now",
+            title: "Case Management Clerk",
+            company: "Freistaat Bayern",
+            location: "Germany, Regensburg",
+            icon: fb,
+            description: ["Recording and managing case data",
+                "Handling correspondence and documentation"]
+        },
+        {
             id: 'db',
-            date: "2023-10 - now",
+            date: "2023-10 - 2024-10",
             title: "Subscription Management Clerk and UX-Team Collaborator Customer Portal",
             company: "Deutsche Bahn AG",
             location: "Germany, Regensburg",
@@ -65,7 +76,7 @@ const careerEvents = () => {
             title: "Secretary in building construction",
             company: "Guggenberger Bau GmbH",
             location: "Germany, Mintraching",
-            icon: guggenberger,
+            icon: gugg,
             description: ["Correspondence with subcontractor and customers", "Administration of construction plans", "Creation of construction site files"]
         },
         {

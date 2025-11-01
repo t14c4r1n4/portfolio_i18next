@@ -10,17 +10,19 @@ function App() {
   const isMobile = useMediaQuery('(max-width: 768px)');
 
   return (
-    <div className="bg-gradient-to-br from-neutral-900 to-neutral-800 min-h-screen">
+    <div className="bg-gradient-to-br from-neutral-900 to-neutral-800 min-h-screen flex flex-col">
       <Navbar />
-      {isMobile ? (
-        <>
-          <ScrollProgress />
-          <Page />
-        </>
-      ) : (
-        <Outlet />
-      )}
-      <Footer />
+      <main className="flex-grow">
+        {isMobile ? (
+          <>
+            <ScrollProgress />
+            <Page />
+          </>
+        ) : (
+          <Outlet />
+        )}
+      </main>
+      <Footer className="bottom-0" />
     </div>
   );
 }

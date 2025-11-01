@@ -23,9 +23,9 @@ i18n
         transSupportBasicHtmlNodes: true,
         transKeepBasicHtmlNodesFor: ["p", "span", "br", "i"],
         resources: {
+            de: { translation: de },
             en: { translation: en },
-            es: { translation: es },
-            de: { translation: de }
+            es: { translation: es }
         }
     });
 
