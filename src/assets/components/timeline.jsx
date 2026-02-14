@@ -31,7 +31,7 @@ const Timeline = ({ events, titleKey }) => {
             <div ref={containerRef} className="relative md:flex md:flex-col items-center">
                 {/* Timeline-Linie */}
                 <div
-                    className="hidden md:block absolute left-1/2 w-1 bg-indigo-600 -translate-x-1/2 origin-top"
+                    className="hidden md:block absolute left-1/2 w-1 bg-purple-600 -translate-x-1/2 origin-top"
                     style={{ height: `${lineHeight}px`, transition: 'height 0.2s ease-out', top: 0 }}
                 ></div>
 
@@ -62,7 +62,7 @@ const Timeline = ({ events, titleKey }) => {
                             {/* Logo */}
                             <div className="flex justify-center items-center w-16 h-16 rounded-full bg-zinc-800 border border-zinc-600 mx-4 flex-shrink-0 mt-4 md:mt-0">
                                 <img
-                                    src={`../src/assets/images/companies/${event.icon}.png`}
+                                    src={`.../public/companies/${event.icon}.png`}
                                     alt={`${event.company} logo`}
                                     className="object-contain w-10 h-10 transition-transform duration-300 hover:scale-110"
                                 />

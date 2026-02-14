@@ -2,7 +2,7 @@ import {
     klett,
     zoll,
     wbs
-} from '../images/index.js'
+} from '../images/companies'
 
 
 export const eduEvents = [
@@ -29,8 +29,8 @@ export const eduEvents = [
         location: "Germany, Regensburg",
         icon: zoll,
         description: ["Administrative tasks", "Department assistant"]
-    }   
-    
+    }
+
 ]
 
 export default eduEvents;

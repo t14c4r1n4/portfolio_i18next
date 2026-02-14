@@ -10,7 +10,7 @@ const Home = () => {
                 <p className="text-xl text-secondary font-bold mb-10">{t('hero.intro')}</p>
                 <p className="leading-8">{t('hero.part1')}</p>
                 <a href="./contact" className="font-dosis">
-                    <button className="border-full bg-primary m-5 p-2 rounded-full">{t('hero.cta')}</button>
+                    <button className="border-full bg-indigo-500 hover:bg-secondary m-5 p-2 rounded-full">{t('hero.cta')}</button>
                 </a>
                 <p className="leading-8">{t('hero.part2')}</p>
             </div>

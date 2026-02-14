@@ -15,7 +15,7 @@ export const Contact = () => {
             publicKey: "wGaxxKJPEE4FZFPbd"
         });
 
-        const serviceID = "service_2ywjmzq";
+        const serviceID = "service_egaum63";
         const templateID = "template_yzi86jh";
         emailjs.sendForm(serviceID, templateID, form.current)
             .then(
